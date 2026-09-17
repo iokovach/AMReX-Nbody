@@ -1,0 +1,55 @@
+Initializing AMReX (26.08-16-g6e875b7cc1a4)...
+AMReX (26.08-16-g6e875b7cc1a4) initialized
+G code : 4300261.828
+InitData: loaded 1000 particles
+a_ini = 0.001  [step 0] max |rho| at level 0 = 1607.889054
+ drift factor 55.10526284
+ kick factor 6.036479099e-08
+ max_level 0
+  [step 1] max |rho| at level 0 = 2360.363483
+ drift factor 42.82778536
+ kick factor 5.551115433e-08
+ max_level 0
+  [step 2] max |rho| at level 0 = 3186.478184
+ drift factor 34.52248382
+ kick factor 5.166852265e-08
+ max_level 0
+  [step 3] max |rho| at level 0 = 4097.688736
+ drift factor 28.59547921
+ kick factor 4.852813742e-08
+ max_level 0
+  [step 4] max |rho| at level 0 = 5457.795331
+ drift factor 24.19092529
+ kick factor 4.589905358e-08
+ max_level 0
+  [step 5] max |rho| at level 0 = 6545.827856
+ drift factor 20.81216279
+ kick factor 4.365596096e-08
+ max_level 0
+  [step 6] max |rho| at level 0 = 8021.887242
+ drift factor 18.15314225
+ kick factor 4.171274515e-08
+ max_level 0
+  [step 7] max |rho| at level 0 = 9107.258223
+ drift factor 16.01602019
+ kick factor 4.000800561e-08
+ max_level 0
+  [step 8] max |rho| at level 0 = 11264.13243
+ drift factor 14.26779727
+ kick factor 3.849662171e-08
+ max_level 0
+  [step 9] max |rho| at level 0 = 19196.5003
+ drift factor 12.81610134
+ kick factor 3.714459058e-08
+ max_level 0
+  [step 10] max |rho| at level 0 = 39905.19585
+ drift factor 11.59498108
+ kick factor 3.592573489e-08
+ max_level 0
+
+Total Time: 6.3913691
+Unused ParmParse Variables:
+  [TOP]::amr.ref_ratio(nvals = 2)  :: [2, 2]
+  [TOP]::n_part(nvals = 1)  :: [2]
+
+AMReX (26.08-16-g6e875b7cc1a4) finalized

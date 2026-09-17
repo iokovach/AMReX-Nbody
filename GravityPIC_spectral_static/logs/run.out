@@ -1,0 +1,3982 @@
+Initializing AMReX (26.08-16-g6e875b7cc1a4-dirty)...
+AMReX (26.08-16-g6e875b7cc1a4-dirty) initialized
+G code : 0.04300261828
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+InitData: loaded 1000 particles
+  [step 0] max |rho| at level 0 = 15.84048057
+  [step 1] max |rho| at level 0 = 15.83779248
+  [step 2] max |rho| at level 0 = 15.83241682
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 3] max |rho| at level 0 = 15.82435462
+  [step 4] max |rho| at level 0 = 15.81360743
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 5] max |rho| at level 0 = 15.80017733
+  [step 6] max |rho| at level 0 = 15.78406691
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 7] max |rho| at level 0 = 15.76527927
+  [step 8] max |rho| at level 0 = 15.74381806
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 9] max |rho| at level 0 = 15.71968742
+  [step 10] max |rho| at level 0 = 15.69289203
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 11] max |rho| at level 0 = 15.66343711
+  [step 12] max |rho| at level 0 = 15.63132838
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 13] max |rho| at level 0 = 15.59657211
+  [step 14] max |rho| at level 0 = 15.5591751
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 15] max |rho| at level 0 = 15.52517128
+  [step 16] max |rho| at level 0 = 15.54663477
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 17] max |rho| at level 0 = 15.56943436
+  [step 18] max |rho| at level 0 = 15.59356904
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 19] max |rho| at level 0 = 15.61903772
+  [step 20] max |rho| at level 0 = 15.65015916
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 21] max |rho| at level 0 = 15.70171736
+  [step 22] max |rho| at level 0 = 15.75581949
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 23] max |rho| at level 0 = 15.81247801
+  [step 24] max |rho| at level 0 = 15.87170599
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 25] max |rho| at level 0 = 15.93351707
+  [step 26] max |rho| at level 0 = 15.99792549
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 27] max |rho| at level 0 = 16.06494608
+  [step 28] max |rho| at level 0 = 16.12190501
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 29] max |rho| at level 0 = 16.17359227
+  [step 30] max |rho| at level 0 = 16.22706166
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 31] max |rho| at level 0 = 16.28231298
+  [step 32] max |rho| at level 0 = 16.33934601
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 33] max |rho| at level 0 = 16.39816048
+  [step 34] max |rho| at level 0 = 16.45875609
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 35] max |rho| at level 0 = 16.52113249
+  [step 36] max |rho| at level 0 = 16.56054958
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 37] max |rho| at level 0 = 16.62358427
+  [step 38] max |rho| at level 0 = 16.75168895
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 39] max |rho| at level 0 = 16.84142123
+  [step 40] max |rho| at level 0 = 16.85224786
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 41] max |rho| at level 0 = 16.86294299
+  [step 42] max |rho| at level 0 = 16.87347466
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 43] max |rho| at level 0 = 16.88380988
+  [step 44] max |rho| at level 0 = 16.8939146
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 45] max |rho| at level 0 = 16.90375369
+  [step 46] max |rho| at level 0 = 16.91329092
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 47] max |rho| at level 0 = 16.89825475
+  [step 48] max |rho| at level 0 = 16.80829623
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 49] max |rho| at level 0 = 16.83992817
+  [step 50] max |rho| at level 0 = 16.90118571
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 51] max |rho| at level 0 = 16.96343954
+  [step 52] max |rho| at level 0 = 17.02667311
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 53] max |rho| at level 0 = 17.09086924
+  [step 54] max |rho| at level 0 = 17.15601014
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 55] max |rho| at level 0 = 17.22207736
+  [step 56] max |rho| at level 0 = 17.18926984
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 57] max |rho| at level 0 = 17.11997746
+  [step 58] max |rho| at level 0 = 16.95504607
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 59] max |rho| at level 0 = 16.77827382
+  [step 60] max |rho| at level 0 = 16.59972667
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 61] max |rho| at level 0 = 16.56354533
+  [step 62] max |rho| at level 0 = 16.5912304
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 63] max |rho| at level 0 = 16.61831089
+  [step 64] max |rho| at level 0 = 16.64473929
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 65] max |rho| at level 0 = 16.67046757
+  [step 66] max |rho| at level 0 = 16.63800848
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 67] max |rho| at level 0 = 16.42286459
+  [step 68] max |rho| at level 0 = 16.20607156
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 69] max |rho| at level 0 = 15.98769518
+  [step 70] max |rho| at level 0 = 15.79719054
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 71] max |rho| at level 0 = 15.6738173
+  [step 72] max |rho| at level 0 = 15.85493897
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 73] max |rho| at level 0 = 16.0581768
+  [step 74] max |rho| at level 0 = 16.23268817
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 75] max |rho| at level 0 = 16.20575768
+  [step 76] max |rho| at level 0 = 16.17694237
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 77] max |rho| at level 0 = 16.146184
+  [step 78] max |rho| at level 0 = 16.11342373
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 79] max |rho| at level 0 = 16.07860215
+  [step 80] max |rho| at level 0 = 16.04165924
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 81] max |rho| at level 0 = 16.00253441
+  [step 82] max |rho| at level 0 = 16.11105975
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 83] max |rho| at level 0 = 16.36082293
+  [step 84] max |rho| at level 0 = 16.25512194
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 85] max |rho| at level 0 = 16.11349312
+  [step 86] max |rho| at level 0 = 15.96940748
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 87] max |rho| at level 0 = 15.82284696
+  [step 88] max |rho| at level 0 = 15.67379388
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 89] max |rho| at level 0 = 15.54199536
+  [step 90] max |rho| at level 0 = 15.67163165
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 91] max |rho| at level 0 = 15.8869507
+  [step 92] max |rho| at level 0 = 16.10524537
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 93] max |rho| at level 0 = 16.32651483
+  [step 94] max |rho| at level 0 = 16.33659354
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 95] max |rho| at level 0 = 16.25152819
+  [step 96] max |rho| at level 0 = 16.16337214
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 97] max |rho| at level 0 = 16.07207863
+  [step 98] max |rho| at level 0 = 15.97760159
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 99] max |rho| at level 0 = 15.87989574
+  [step 100] max |rho| at level 0 = 15.77891652
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 101] max |rho| at level 0 = 15.67462013
+  [step 102] max |rho| at level 0 = 15.45425739
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 103] max |rho| at level 0 = 15.54191084
+  [step 104] max |rho| at level 0 = 15.62907507
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 105] max |rho| at level 0 = 15.71569587
+  [step 106] max |rho| at level 0 = 15.80171771
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 107] max |rho| at level 0 = 15.88708375
+  [step 108] max |rho| at level 0 = 15.97173581
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 109] max |rho| at level 0 = 15.98511575
+  [step 110] max |rho| at level 0 = 15.97218849
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 111] max |rho| at level 0 = 16.07565971
+  [step 112] max |rho| at level 0 = 16.4059047
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 113] max |rho| at level 0 = 16.74246341
+  [step 114] max |rho| at level 0 = 16.98740269
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 115] max |rho| at level 0 = 16.90505376
+  [step 116] max |rho| at level 0 = 16.81860636
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 117] max |rho| at level 0 = 16.72796753
+  [step 118] max |rho| at level 0 = 16.63304331
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 119] max |rho| at level 0 = 16.49876893
+  [step 120] max |rho| at level 0 = 16.41392228
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 121] max |rho| at level 0 = 16.68413384
+  [step 122] max |rho| at level 0 = 16.9566729
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 123] max |rho| at level 0 = 16.96987266
+  [step 124] max |rho| at level 0 = 16.60289649
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 125] max |rho| at level 0 = 16.30570228
+  [step 126] max |rho| at level 0 = 16.167937
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 127] max |rho| at level 0 = 15.81560505
+  [step 128] max |rho| at level 0 = 15.62936475
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 129] max |rho| at level 0 = 15.35273593
+  [step 130] max |rho| at level 0 = 15.66849379
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 131] max |rho| at level 0 = 15.98886259
+  [step 132] max |rho| at level 0 = 16.3138686
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 133] max |rho| at level 0 = 16.6435373
+  [step 134] max |rho| at level 0 = 16.56344411
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 135] max |rho| at level 0 = 16.4168449
+  [step 136] max |rho| at level 0 = 16.26566392
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 137] max |rho| at level 0 = 16.26755041
+  [step 138] max |rho| at level 0 = 15.86150253
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 139] max |rho| at level 0 = 15.76739532
+  [step 140] max |rho| at level 0 = 15.8409947
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 141] max |rho| at level 0 = 15.91472493
+  [step 142] max |rho| at level 0 = 16.16176416
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 143] max |rho| at level 0 = 16.2413255
+  [step 144] max |rho| at level 0 = 16.31601798
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 145] max |rho| at level 0 = 16.53400349
+  [step 146] max |rho| at level 0 = 16.8628089
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 147] max |rho| at level 0 = 16.86894794
+  [step 148] max |rho| at level 0 = 16.60397558
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 149] max |rho| at level 0 = 16.41795687
+  [step 150] max |rho| at level 0 = 16.40889818
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 151] max |rho| at level 0 = 16.01606456
+  [step 152] max |rho| at level 0 = 15.62365451
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 153] max |rho| at level 0 = 15.23179661
+  [step 154] max |rho| at level 0 = 15.47954644
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 155] max |rho| at level 0 = 15.60289808
+  [step 156] max |rho| at level 0 = 16.00537692
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 157] max |rho| at level 0 = 16.43165494
+  [step 158] max |rho| at level 0 = 16.59636101
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 159] max |rho| at level 0 = 16.56299867
+  [step 160] max |rho| at level 0 = 16.52191355
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 161] max |rho| at level 0 = 16.3228358
+  [step 162] max |rho| at level 0 = 15.97880756
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 163] max |rho| at level 0 = 16.05973342
+  [step 164] max |rho| at level 0 = 16.1378499
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 165] max |rho| at level 0 = 16.16657956
+  [step 166] max |rho| at level 0 = 16.00080171
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 167] max |rho| at level 0 = 16.01053752
+  [step 168] max |rho| at level 0 = 16.01188206
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 169] max |rho| at level 0 = 16.01512561
+  [step 170] max |rho| at level 0 = 16.18472511
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 171] max |rho| at level 0 = 16.35345665
+  [step 172] max |rho| at level 0 = 16.52128833
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 173] max |rho| at level 0 = 16.68818815
+  [step 174] max |rho| at level 0 = 16.85412393
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 175] max |rho| at level 0 = 17.33327648
+  [step 176] max |rho| at level 0 = 17.01616221
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 177] max |rho| at level 0 = 16.99663548
+  [step 178] max |rho| at level 0 = 16.89900086
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 179] max |rho| at level 0 = 16.63796561
+  [step 180] max |rho| at level 0 = 16.37534241
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 181] max |rho| at level 0 = 16.1163597
+  [step 182] max |rho| at level 0 = 15.84551186
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 183] max |rho| at level 0 = 15.80435963
+  [step 184] max |rho| at level 0 = 16.20591207
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 185] max |rho| at level 0 = 15.88366582
+  [step 186] max |rho| at level 0 = 15.29463888
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 187] max |rho| at level 0 = 15.4454819
+  [step 188] max |rho| at level 0 = 15.39225097
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 189] max |rho| at level 0 = 15.7275541
+  [step 190] max |rho| at level 0 = 16.06583404
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 191] max |rho| at level 0 = 16.40711021
+  [step 192] max |rho| at level 0 = 16.2192759
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 193] max |rho| at level 0 = 16.49756611
+  [step 194] max |rho| at level 0 = 16.67096114
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 195] max |rho| at level 0 = 17.28683022
+  [step 196] max |rho| at level 0 = 17.46210223
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 197] max |rho| at level 0 = 16.80286683
+  [step 198] max |rho| at level 0 = 16.15267904
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 199] max |rho| at level 0 = 16.0921684
+  [step 200] max |rho| at level 0 = 16.16077655
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 201] max |rho| at level 0 = 16.54654076
+  [step 202] max |rho| at level 0 = 16.76894032
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 203] max |rho| at level 0 = 16.83266333
+  [step 204] max |rho| at level 0 = 16.48447089
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 205] max |rho| at level 0 = 16.54763083
+  [step 206] max |rho| at level 0 = 16.18765471
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 207] max |rho| at level 0 = 16.45051058
+  [step 208] max |rho| at level 0 = 16.59471331
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 209] max |rho| at level 0 = 16.33217317
+  [step 210] max |rho| at level 0 = 15.9901878
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 211] max |rho| at level 0 = 15.4562282
+  [step 212] max |rho| at level 0 = 15.7440123
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 213] max |rho| at level 0 = 15.906855
+  [step 214] max |rho| at level 0 = 15.87798403
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 215] max |rho| at level 0 = 15.6434349
+  [step 216] max |rho| at level 0 = 16.42984298
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 217] max |rho| at level 0 = 16.98240967
+  [step 218] max |rho| at level 0 = 16.97961959
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 219] max |rho| at level 0 = 16.65258828
+  [step 220] max |rho| at level 0 = 17.23596684
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 221] max |rho| at level 0 = 17.20646301
+  [step 222] max |rho| at level 0 = 16.437516
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 223] max |rho| at level 0 = 16.04440941
+  [step 224] max |rho| at level 0 = 16.23294113
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 225] max |rho| at level 0 = 16.71023256
+  [step 226] max |rho| at level 0 = 16.88784032
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 227] max |rho| at level 0 = 16.41259364
+  [step 228] max |rho| at level 0 = 16.96650939
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 229] max |rho| at level 0 = 17.61147171
+  [step 230] max |rho| at level 0 = 17.05581204
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 231] max |rho| at level 0 = 16.37088464
+  [step 232] max |rho| at level 0 = 16.97770878
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 233] max |rho| at level 0 = 17.39819994
+  [step 234] max |rho| at level 0 = 16.71137618
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 235] max |rho| at level 0 = 15.87936646
+  [step 236] max |rho| at level 0 = 15.96635167
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 237] max |rho| at level 0 = 15.90355893
+  [step 238] max |rho| at level 0 = 16.2618574
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 239] max |rho| at level 0 = 16.96114764
+  [step 240] max |rho| at level 0 = 17.21160613
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 241] max |rho| at level 0 = 16.9955978
+  [step 242] max |rho| at level 0 = 16.28116893
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 243] max |rho| at level 0 = 15.90699225
+  [step 244] max |rho| at level 0 = 15.14760046
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 245] max |rho| at level 0 = 15.3541711
+  [step 246] max |rho| at level 0 = 16.15871578
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 247] max |rho| at level 0 = 16.99369543
+  [step 248] max |rho| at level 0 = 17.10639809
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 249] max |rho| at level 0 = 16.84358256
+  [step 250] max |rho| at level 0 = 17.1216191
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 251] max |rho| at level 0 = 17.36052689
+  [step 252] max |rho| at level 0 = 16.99429392
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 253] max |rho| at level 0 = 16.85476712
+  [step 254] max |rho| at level 0 = 16.59198031
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 255] max |rho| at level 0 = 16.39007275
+  [step 256] max |rho| at level 0 = 16.35083121
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 257] max |rho| at level 0 = 16.30977832
+  [step 258] max |rho| at level 0 = 15.90317099
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 259] max |rho| at level 0 = 16.21902436
+  [step 260] max |rho| at level 0 = 15.95535846
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 261] max |rho| at level 0 = 16.239371
+  [step 262] max |rho| at level 0 = 16.14453037
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 263] max |rho| at level 0 = 16.03115726
+  [step 264] max |rho| at level 0 = 15.82186226
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 265] max |rho| at level 0 = 16.03225929
+  [step 266] max |rho| at level 0 = 15.95111956
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 267] max |rho| at level 0 = 16.15582007
+  [step 268] max |rho| at level 0 = 16.26691923
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 269] max |rho| at level 0 = 16.02371845
+  [step 270] max |rho| at level 0 = 15.77274338
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 271] max |rho| at level 0 = 15.9944743
+  [step 272] max |rho| at level 0 = 15.90030016
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 273] max |rho| at level 0 = 16.46693293
+  [step 274] max |rho| at level 0 = 16.1033152
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 275] max |rho| at level 0 = 15.39010914
+  [step 276] max |rho| at level 0 = 15.84517961
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 277] max |rho| at level 0 = 16.38154053
+  [step 278] max |rho| at level 0 = 16.27945516
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 279] max |rho| at level 0 = 15.92986897
+  [step 280] max |rho| at level 0 = 15.57374435
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 281] max |rho| at level 0 = 15.2670177
+  [step 282] max |rho| at level 0 = 15.49885827
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 283] max |rho| at level 0 = 15.80481778
+  [step 284] max |rho| at level 0 = 15.96610143
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 285] max |rho| at level 0 = 16.20147137
+  [step 286] max |rho| at level 0 = 16.43798418
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 287] max |rho| at level 0 = 16.67562213
+  [step 288] max |rho| at level 0 = 16.72986628
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 289] max |rho| at level 0 = 16.60518563
+  [step 290] max |rho| at level 0 = 16.33433293
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 291] max |rho| at level 0 = 15.99144749
+  [step 292] max |rho| at level 0 = 16.15114871
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 293] max |rho| at level 0 = 16.90669106
+  [step 294] max |rho| at level 0 = 16.52313624
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 295] max |rho| at level 0 = 15.72475395
+  [step 296] max |rho| at level 0 = 15.71534045
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 297] max |rho| at level 0 = 15.38136687
+  [step 298] max |rho| at level 0 = 15.95185699
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 299] max |rho| at level 0 = 15.60908776
+  [step 300] max |rho| at level 0 = 16.00474371
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 301] max |rho| at level 0 = 16.6001135
+  [step 302] max |rho| at level 0 = 16.62059265
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 303] max |rho| at level 0 = 15.90222165
+  [step 304] max |rho| at level 0 = 15.39535591
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 305] max |rho| at level 0 = 16.21256908
+  [step 306] max |rho| at level 0 = 15.99285105
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 307] max |rho| at level 0 = 16.16620176
+  [step 308] max |rho| at level 0 = 16.57306591
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 309] max |rho| at level 0 = 16.75665664
+  [step 310] max |rho| at level 0 = 16.15922322
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 311] max |rho| at level 0 = 16.14580707
+  [step 312] max |rho| at level 0 = 16.39091187
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 313] max |rho| at level 0 = 16.81556412
+  [step 314] max |rho| at level 0 = 16.85897534
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 315] max |rho| at level 0 = 16.44777416
+  [step 316] max |rho| at level 0 = 16.03292331
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 317] max |rho| at level 0 = 16.90876168
+  [step 318] max |rho| at level 0 = 16.57917891
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 319] max |rho| at level 0 = 16.23547918
+  [step 320] max |rho| at level 0 = 15.6989147
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 321] max |rho| at level 0 = 15.74733369
+  [step 322] max |rho| at level 0 = 16.18564539
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 323] max |rho| at level 0 = 15.53652635
+  [step 324] max |rho| at level 0 = 15.41076371
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 325] max |rho| at level 0 = 15.72395331
+  [step 326] max |rho| at level 0 = 16.21141915
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 327] max |rho| at level 0 = 17.13650493
+  [step 328] max |rho| at level 0 = 17.18937962
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 329] max |rho| at level 0 = 16.24965807
+  [step 330] max |rho| at level 0 = 16.36691629
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 331] max |rho| at level 0 = 16.8874996
+  [step 332] max |rho| at level 0 = 16.86217336
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 333] max |rho| at level 0 = 15.73140499
+  [step 334] max |rho| at level 0 = 16.01757009
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 335] max |rho| at level 0 = 16.24295233
+  [step 336] max |rho| at level 0 = 16.027503
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 337] max |rho| at level 0 = 16.52026129
+  [step 338] max |rho| at level 0 = 15.93528765
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 339] max |rho| at level 0 = 15.7420049
+  [step 340] max |rho| at level 0 = 16.17259846
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 341] max |rho| at level 0 = 15.96257084
+  [step 342] max |rho| at level 0 = 15.61503589
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 343] max |rho| at level 0 = 15.77065499
+  [step 344] max |rho| at level 0 = 15.25724346
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 345] max |rho| at level 0 = 16.22373797
+  [step 346] max |rho| at level 0 = 16.59838758
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 347] max |rho| at level 0 = 16.66211282
+  [step 348] max |rho| at level 0 = 17.30394957
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 349] max |rho| at level 0 = 16.74211926
+  [step 350] max |rho| at level 0 = 15.78820018
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 351] max |rho| at level 0 = 15.65643499
+  [step 352] max |rho| at level 0 = 15.96888779
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 353] max |rho| at level 0 = 14.93198197
+  [step 354] max |rho| at level 0 = 14.8997513
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 355] max |rho| at level 0 = 15.13397143
+  [step 356] max |rho| at level 0 = 15.94836635
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 357] max |rho| at level 0 = 16.58584405
+  [step 358] max |rho| at level 0 = 16.18577022
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 359] max |rho| at level 0 = 15.00206896
+  [step 360] max |rho| at level 0 = 15.04106341
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 361] max |rho| at level 0 = 15.54633182
+  [step 362] max |rho| at level 0 = 15.92949548
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 363] max |rho| at level 0 = 16.25002974
+  [step 364] max |rho| at level 0 = 16.84261764
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 365] max |rho| at level 0 = 16.89144025
+  [step 366] max |rho| at level 0 = 16.07713266
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 367] max |rho| at level 0 = 15.55163433
+  [step 368] max |rho| at level 0 = 16.20300108
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 369] max |rho| at level 0 = 16.22925915
+  [step 370] max |rho| at level 0 = 15.89048277
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 371] max |rho| at level 0 = 16.74613936
+  [step 372] max |rho| at level 0 = 16.07637119
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 373] max |rho| at level 0 = 15.76685443
+  [step 374] max |rho| at level 0 = 16.14140142
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 375] max |rho| at level 0 = 15.88985461
+  [step 376] max |rho| at level 0 = 16.6640447
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 377] max |rho| at level 0 = 15.95252703
+  [step 378] max |rho| at level 0 = 15.12561109
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 379] max |rho| at level 0 = 15.54528893
+  [step 380] max |rho| at level 0 = 15.96819652
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 381] max |rho| at level 0 = 15.72392417
+  [step 382] max |rho| at level 0 = 16.40653261
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 383] max |rho| at level 0 = 16.05037276
+  [step 384] max |rho| at level 0 = 16.87055672
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 385] max |rho| at level 0 = 16.14848693
+  [step 386] max |rho| at level 0 = 16.24928885
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 387] max |rho| at level 0 = 16.39991036
+  [step 388] max |rho| at level 0 = 16.65433531
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 389] max |rho| at level 0 = 16.48827276
+  [step 390] max |rho| at level 0 = 16.2670187
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 391] max |rho| at level 0 = 16.66194478
+  [step 392] max |rho| at level 0 = 16.8865811
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 393] max |rho| at level 0 = 16.21792047
+  [step 394] max |rho| at level 0 = 15.41396228
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 395] max |rho| at level 0 = 15.9819659
+  [step 396] max |rho| at level 0 = 16.24346388
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 397] max |rho| at level 0 = 16.87670213
+  [step 398] max |rho| at level 0 = 16.15509585
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 399] max |rho| at level 0 = 15.99485876
+  [step 400] max |rho| at level 0 = 16.02893842
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 401] max |rho| at level 0 = 15.49344134
+  [step 402] max |rho| at level 0 = 16.03776938
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 403] max |rho| at level 0 = 16.69171203
+  [step 404] max |rho| at level 0 = 16.8379369
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 405] max |rho| at level 0 = 16.44049691
+  [step 406] max |rho| at level 0 = 15.74062591
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 407] max |rho| at level 0 = 15.88859993
+  [step 408] max |rho| at level 0 = 16.17341922
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 409] max |rho| at level 0 = 15.00604788
+  [step 410] max |rho| at level 0 = 15.38561089
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 411] max |rho| at level 0 = 16.09034556
+  [step 412] max |rho| at level 0 = 16.89526814
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 413] max |rho| at level 0 = 16.12859849
+  [step 414] max |rho| at level 0 = 16.38871095
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 415] max |rho| at level 0 = 16.41425637
+  [step 416] max |rho| at level 0 = 16.62848328
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 417] max |rho| at level 0 = 15.30503109
+  [step 418] max |rho| at level 0 = 15.95551522
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 419] max |rho| at level 0 = 15.76861575
+  [step 420] max |rho| at level 0 = 15.36309125
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 421] max |rho| at level 0 = 16.84411344
+  [step 422] max |rho| at level 0 = 16.64864775
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 423] max |rho| at level 0 = 15.46739036
+  [step 424] max |rho| at level 0 = 15.45783526
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 425] max |rho| at level 0 = 15.68159203
+  [step 426] max |rho| at level 0 = 17.03459619
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 427] max |rho| at level 0 = 16.41086111
+  [step 428] max |rho| at level 0 = 16.1028037
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 429] max |rho| at level 0 = 16.11349218
+  [step 430] max |rho| at level 0 = 15.96109859
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 431] max |rho| at level 0 = 16.99348106
+  [step 432] max |rho| at level 0 = 17.86431939
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 433] max |rho| at level 0 = 17.94504066
+  [step 434] max |rho| at level 0 = 16.93085991
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 435] max |rho| at level 0 = 16.02975119
+  [step 436] max |rho| at level 0 = 16.69566571
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 437] max |rho| at level 0 = 16.8705094
+  [step 438] max |rho| at level 0 = 16.57814998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 439] max |rho| at level 0 = 16.77335101
+  [step 440] max |rho| at level 0 = 15.57285941
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 441] max |rho| at level 0 = 16.20754722
+  [step 442] max |rho| at level 0 = 15.93991131
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 443] max |rho| at level 0 = 16.46385717
+  [step 444] max |rho| at level 0 = 16.59560805
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 445] max |rho| at level 0 = 16.58737842
+  [step 446] max |rho| at level 0 = 17.16411173
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 447] max |rho| at level 0 = 16.85225159
+  [step 448] max |rho| at level 0 = 17.03269178
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 449] max |rho| at level 0 = 16.09598024
+  [step 450] max |rho| at level 0 = 16.62499948
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 451] max |rho| at level 0 = 16.05176273
+  [step 452] max |rho| at level 0 = 16.05573416
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 453] max |rho| at level 0 = 15.77528838
+  [step 454] max |rho| at level 0 = 16.97541979
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 455] max |rho| at level 0 = 16.88897173
+  [step 456] max |rho| at level 0 = 18.1382681
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 457] max |rho| at level 0 = 19.78126508
+  [step 458] max |rho| at level 0 = 21.53743822
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 459] max |rho| at level 0 = 22.59357709
+  [step 460] max |rho| at level 0 = 21.80106895
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 461] max |rho| at level 0 = 20.91635039
+  [step 462] max |rho| at level 0 = 19.97281748
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 463] max |rho| at level 0 = 19.50732724
+  [step 464] max |rho| at level 0 = 18.81615112
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 465] max |rho| at level 0 = 18.29302084
+  [step 466] max |rho| at level 0 = 17.55345646
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 467] max |rho| at level 0 = 17.54745116
+  [step 468] max |rho| at level 0 = 18.01521542
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 469] max |rho| at level 0 = 18.2326632
+  [step 470] max |rho| at level 0 = 18.34302474
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 471] max |rho| at level 0 = 19.81721158
+  [step 471] max |rho| at level 1 = 125.1187063
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 125.1187063
+MLMG: Initial residual (resid0) = 122.0647254
+MLMG: Iteration   1 Fine resid/bnorm = 9.694013254e-05
+MLMG: Iteration   2 Fine resid/bnorm = 1.374143241e-07
+MLMG: Iteration   3 Fine resid/bnorm = 3.012237146e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 3.768872148e-08, 3.012237146e-10
+MLMG: Timers: Solve = 0.587561234 Iter = 0.202524447 Bottom = 0.028515758
+  [step 472] max |rho| at level 0 = 21.30455525
+  [step 472] max |rho| at level 1 = 115.3973947
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 115.3973947
+MLMG: Initial residual (resid0) = 112.2709931
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001104570536
+MLMG: Iteration   2 Fine resid/bnorm = 1.703183391e-07
+MLMG: Iteration   3 Fine resid/bnorm = 3.848090786e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 4.440596513e-08, 3.848090786e-10
+MLMG: Timers: Solve = 0.001530261 Iter = 0.001006999 Bottom = 5.675800014e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 473] max |rho| at level 0 = 22.79640283
+  [step 473] max |rho| at level 1 = 102.6295374
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 102.6295374
+MLMG: Initial residual (resid0) = 99.58134279
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001303197309
+MLMG: Iteration   2 Fine resid/bnorm = 2.105151222e-07
+MLMG: Iteration   3 Fine resid/bnorm = 4.711145967e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 4.835027312e-08, 4.711145967e-10
+MLMG: Timers: Solve = 0.001662562 Iter = 0.001069478 Bottom = 6.971400012e-05
+  [step 474] max |rho| at level 0 = 24.4595397
+  [step 474] max |rho| at level 1 = 111.6407996
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 111.6407996
+MLMG: Initial residual (resid0) = 110.1906374
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001255899298
+MLMG: Iteration   2 Fine resid/bnorm = 2.110095096e-07
+MLMG: Iteration   3 Fine resid/bnorm = 4.689024031e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 5.23486392e-08, 4.689024031e-10
+MLMG: Timers: Solve = 0.001470176 Iter = 0.000998303 Bottom = 6.633700002e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 475] max |rho| at level 0 = 26.04554088
+  [step 475] max |rho| at level 1 = 103.7246767
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 103.7246767
+MLMG: Initial residual (resid0) = 101.3827599
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001424114918
+MLMG: Iteration   2 Fine resid/bnorm = 2.425848355e-07
+MLMG: Iteration   3 Fine resid/bnorm = 5.319048048e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 5.517165391e-08, 5.319048048e-10
+MLMG: Timers: Solve = 0.001474054 Iter = 0.000962314 Bottom = 6.404100009e-05
+  [step 476] max |rho| at level 0 = 27.41263892
+  [step 476] max |rho| at level 1 = 117.2241742
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 117.2241742
+MLMG: Initial residual (resid0) = 108.9464182
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001310417666
+MLMG: Iteration   2 Fine resid/bnorm = 2.227137068e-07
+MLMG: Iteration   3 Fine resid/bnorm = 4.804998712e-10
+MLMG: Final Iter. 3 resid, resid/bnorm = 5.632620059e-08, 4.804998712e-10
+MLMG: Timers: Solve = 0.001487921 Iter = 0.000999806 Bottom = 6.470199992e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 477] max |rho| at level 0 = 28.13190849
+  [step 477] max |rho| at level 1 = 119.3625538
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 119.3625538
+MLMG: Initial residual (resid0) = 116.0742421
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002742013627
+MLMG: Iteration   2 Fine resid/bnorm = 1.294440889e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.058714649e-08
+MLMG: Iteration   4 Fine resid/bnorm = 8.981985352e-11
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.07211271e-08, 8.981985352e-11
+MLMG: Timers: Solve = 0.007877123 Iter = 0.006791675 Bottom = 0.0003121500001
+  [step 478] max |rho| at level 0 = 30.74479907
+  [step 478] max |rho| at level 1 = 148.5694066
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 148.5694066
+MLMG: Initial residual (resid0) = 132.5801372
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002339497726
+MLMG: Iteration   2 Fine resid/bnorm = 1.130081292e-06
+MLMG: Iteration   3 Fine resid/bnorm = 9.810258972e-09
+MLMG: Final Iter. 3 resid, resid/bnorm = 1.457504354e-06, 9.810258972e-09
+MLMG: Timers: Solve = 0.006974502 Iter = 0.005658347 Bottom = 0.0002941069999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 479] max |rho| at level 0 = 30.94844954
+  [step 479] max |rho| at level 1 = 158.4718577
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 158.4718577
+MLMG: Initial residual (resid0) = 142.1714354
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002301665576
+MLMG: Iteration   2 Fine resid/bnorm = 1.163671431e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.064534305e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.09586694e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.736640698e-08, 1.09586694e-10
+MLMG: Timers: Solve = 0.008091379 Iter = 0.007010881 Bottom = 0.000307704
+  [step 480] max |rho| at level 0 = 30.36746485
+  [step 480] max |rho| at level 1 = 142.9478347
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 142.9478347
+MLMG: Initial residual (resid0) = 132.4495875
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002626285931
+MLMG: Iteration   2 Fine resid/bnorm = 1.405185215e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.343361167e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.536110293e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.195836402e-08, 1.536110293e-10
+MLMG: Timers: Solve = 0.008103893 Iter = 0.007051588 Bottom = 0.00027407
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 481] max |rho| at level 0 = 29.5569734
+  [step 481] max |rho| at level 1 = 151.7693178
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 151.7693178
+MLMG: Initial residual (resid0) = 147.869268
+MLMG: Iteration   1 Fine resid/bnorm = 0.000255035565
+MLMG: Iteration   2 Fine resid/bnorm = 1.548351742e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.471572746e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.780598043e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.702401503e-08, 1.780598043e-10
+MLMG: Timers: Solve = 0.007447969 Iter = 0.006390485 Bottom = 0.0002514870001
+  [step 482] max |rho| at level 0 = 28.87067314
+  [step 482] max |rho| at level 1 = 182.1228021
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 182.1228021
+MLMG: Initial residual (resid0) = 178.0951058
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002202736628
+MLMG: Iteration   2 Fine resid/bnorm = 1.485952421e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.453307035e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.771109371e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.225594014e-08, 1.771109371e-10
+MLMG: Timers: Solve = 0.008062754 Iter = 0.006921942 Bottom = 0.000265012
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 483] max |rho| at level 0 = 28.02907148
+  [step 483] max |rho| at level 1 = 191.2109379
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 191.2109379
+MLMG: Initial residual (resid0) = 187.0673957
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002260264393
+MLMG: Iteration   2 Fine resid/bnorm = 1.594299868e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.595867403e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.980231755e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.786419711e-08, 1.980231755e-10
+MLMG: Timers: Solve = 0.007808403 Iter = 0.006734687 Bottom = 0.000291293
+  [step 484] max |rho| at level 0 = 30.63898348
+  [step 484] max |rho| at level 1 = 168.3846835
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 168.3846835
+MLMG: Initial residual (resid0) = 164.1544783
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002768292961
+MLMG: Iteration   2 Fine resid/bnorm = 2.010615022e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.056632416e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.609887007e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.394649977e-08, 2.609887007e-10
+MLMG: Timers: Solve = 0.008198953 Iter = 0.007148121 Bottom = 0.000351838
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 485] max |rho| at level 0 = 33.27638558
+  [step 485] max |rho| at level 1 = 133.7480308
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 133.7480308
+MLMG: Initial residual (resid0) = 122.3106391
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003818795838
+MLMG: Iteration   2 Fine resid/bnorm = 1.719184075e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.174605178e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.054752931e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.08567189e-08, 3.054752931e-10
+MLMG: Timers: Solve = 0.009805779 Iter = 0.008608198 Bottom = 0.0004027540001
+  [step 486] max |rho| at level 0 = 35.1094071
+  [step 486] max |rho| at level 1 = 154.5583403
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 154.5583403
+MLMG: Initial residual (resid0) = 136.4627918
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002836215585
+MLMG: Iteration   2 Fine resid/bnorm = 1.58252802e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.991160138e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.765166329e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.273795184e-08, 2.765166329e-10
+MLMG: Timers: Solve = 0.010308142 Iter = 0.009093328 Bottom = 0.0003844899998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 487] max |rho| at level 0 = 35.92543146
+  [step 487] max |rho| at level 1 = 161.0723617
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 161.0723617
+MLMG: Initial residual (resid0) = 142.566317
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002823409527
+MLMG: Iteration   2 Fine resid/bnorm = 1.630436051e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.052288606e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.811204109e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.52807285e-08, 2.811204109e-10
+MLMG: Timers: Solve = 0.013706761 Iter = 0.012047095 Bottom = 0.000682672
+  [step 488] max |rho| at level 0 = 34.77831901
+  [step 488] max |rho| at level 1 = 162.4074027
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 162.4074027
+MLMG: Initial residual (resid0) = 143.9243837
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002632514936
+MLMG: Iteration   2 Fine resid/bnorm = 1.776464999e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.223395628e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.028272106e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.918138075e-08, 3.028272106e-10
+MLMG: Timers: Solve = 0.013219828 Iter = 0.011498285 Bottom = 0.0006389009999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 489] max |rho| at level 0 = 35.85431538
+  [step 489] max |rho| at level 1 = 149.5272076
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 149.5272076
+MLMG: Initial residual (resid0) = 136.207427
+MLMG: Iteration   1 Fine resid/bnorm = 0.0004283760536
+MLMG: Iteration   2 Fine resid/bnorm = 2.418082887e-06
+MLMG: Iteration   3 Fine resid/bnorm = 5.977715228e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.503413147e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.248011697e-07, 1.503413147e-09
+MLMG: Timers: Solve = 0.022681482 Iter = 0.019875053 Bottom = 0.001320744
+  [step 490] max |rho| at level 0 = 38.6678743
+  [step 490] max |rho| at level 1 = 178.2009088
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 178.2009088
+MLMG: Initial residual (resid0) = 163.8567991
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003638204921
+MLMG: Iteration   2 Fine resid/bnorm = 2.145908547e-06
+MLMG: Iteration   3 Fine resid/bnorm = 5.839143021e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.416837637e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.524817546e-07, 1.416837637e-09
+MLMG: Timers: Solve = 0.023204614 Iter = 0.020675209 Bottom = 0.001421613
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 491] max |rho| at level 0 = 40.8636913
+  [step 491] max |rho| at level 1 = 217.5093481
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 217.5093481
+MLMG: Initial residual (resid0) = 205.2178038
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001927908191
+MLMG: Iteration   2 Fine resid/bnorm = 2.657222093e-06
+MLMG: Iteration   3 Fine resid/bnorm = 9.26872436e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.257622967e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.085634479e-07, 3.257622967e-09
+MLMG: Timers: Solve = 0.025844158 Iter = 0.022978426 Bottom = 0.001027588
+  [step 492] max |rho| at level 0 = 42.11658396
+  [step 492] max |rho| at level 1 = 229.9368903
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 229.9368903
+MLMG: Initial residual (resid0) = 217.0531718
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001967738172
+MLMG: Iteration   2 Fine resid/bnorm = 3.136472093e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.116349364e-07
+MLMG: Iteration   4 Fine resid/bnorm = 3.924579176e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 9.024055316e-07, 3.924579176e-09
+MLMG: Timers: Solve = 0.025917426 Iter = 0.023166772 Bottom = 0.001085447
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 493] max |rho| at level 0 = 43.81960456
+  [step 493] max |rho| at level 1 = 224.910119
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 224.910119
+MLMG: Initial residual (resid0) = 211.5017278
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002177458199
+MLMG: Iteration   2 Fine resid/bnorm = 1.422947567e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.476115287e-08
+MLMG: Iteration   4 Fine resid/bnorm = 4.148933956e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 9.331372297e-08, 4.148933956e-10
+MLMG: Timers: Solve = 0.031151167 Iter = 0.028125161 Bottom = 0.001239019
+  [step 494] max |rho| at level 0 = 45.49670997
+  [step 494] max |rho| at level 1 = 199.6704067
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 199.6704067
+MLMG: Initial residual (resid0) = 185.8309879
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002578768242
+MLMG: Iteration   2 Fine resid/bnorm = 2.210779884e-06
+MLMG: Iteration   3 Fine resid/bnorm = 4.416275341e-08
+MLMG: Iteration   4 Fine resid/bnorm = 8.152635273e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.627840001e-07, 8.152635273e-10
+MLMG: Timers: Solve = 0.031957716 Iter = 0.028447823 Bottom = 0.001285077
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 495] max |rho| at level 0 = 44.625627
+  [step 495] max |rho| at level 1 = 183.1200417
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 183.1200417
+MLMG: Initial residual (resid0) = 173.9278684
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002216804502
+MLMG: Iteration   2 Fine resid/bnorm = 1.016658245e-06
+MLMG: Iteration   3 Fine resid/bnorm = 9.755536592e-09
+MLMG: Final Iter. 3 resid, resid/bnorm = 1.786434268e-06, 9.755536592e-09
+MLMG: Timers: Solve = 0.025864616 Iter = 0.022523323 Bottom = 0.0001660139999
+  [step 496] max |rho| at level 0 = 48.40289396
+  [step 496] max |rho| at level 1 = 229.7418934
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 229.7418934
+MLMG: Initial residual (resid0) = 208.0062507
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001833697687
+MLMG: Iteration   2 Fine resid/bnorm = 8.830983642e-07
+MLMG: Iteration   3 Fine resid/bnorm = 8.079635295e-09
+MLMG: Final Iter. 3 resid, resid/bnorm = 1.85623071e-06, 8.079635295e-09
+MLMG: Timers: Solve = 0.026945195 Iter = 0.023493773 Bottom = 0.000175392
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 497] max |rho| at level 0 = 48.99786671
+  [step 497] max |rho| at level 1 = 256.427794
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 256.427794
+MLMG: Initial residual (resid0) = 251.6055704
+MLMG: Iteration   1 Fine resid/bnorm = 0.000215084096
+MLMG: Iteration   2 Fine resid/bnorm = 1.344519679e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.527559622e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.659601372e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.255679187e-08, 1.659601372e-10
+MLMG: Timers: Solve = 0.089397793 Iter = 0.066595051 Bottom = 0.0002894289998
+  [step 498] max |rho| at level 0 = 47.14067361
+  [step 498] max |rho| at level 1 = 278.2600677
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 278.2600677
+MLMG: Initial residual (resid0) = 273.0566927
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001956861636
+MLMG: Iteration   2 Fine resid/bnorm = 1.240457817e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.486420926e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.619695893e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.506966889e-08, 1.619695893e-10
+MLMG: Timers: Solve = 0.044461747 Iter = 0.040370011 Bottom = 0.000241718
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 499] max |rho| at level 0 = 44.61182157
+  [step 499] max |rho| at level 1 = 256.4610837
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 256.4610837
+MLMG: Initial residual (resid0) = 239.8094479
+MLMG: Iteration   1 Fine resid/bnorm = 0.000209909384
+MLMG: Iteration   2 Fine resid/bnorm = 1.343651914e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.717459924e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.87320948e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.804053333e-08, 1.87320948e-10
+MLMG: Timers: Solve = 0.045800865 Iter = 0.041158666 Bottom = 0.0002467480001
+  [step 500] max |rho| at level 0 = 39.43035107
+  [step 500] max |rho| at level 1 = 279.7655943
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 279.7655943
+MLMG: Initial residual (resid0) = 262.5329925
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001930270239
+MLMG: Iteration   2 Fine resid/bnorm = 1.237828631e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.650358346e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.814186373e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.075469289e-08, 1.814186373e-10
+MLMG: Timers: Solve = 0.044953779 Iter = 0.040542979 Bottom = 0.000229565
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 501] max |rho| at level 0 = 41.6422565
+  [step 501] max |rho| at level 1 = 266.1644955
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 266.1644955
+MLMG: Initial residual (resid0) = 252.6220684
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002130964467
+MLMG: Iteration   2 Fine resid/bnorm = 1.303205468e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.813248444e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.013527069e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.359294164e-08, 2.013527069e-10
+MLMG: Timers: Solve = 0.04613602 Iter = 0.041792939 Bottom = 0.0002496839999
+  [step 502] max |rho| at level 0 = 44.16789236
+  [step 502] max |rho| at level 1 = 253.2515382
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 253.2515382
+MLMG: Initial residual (resid0) = 253.2515382
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002350867598
+MLMG: Iteration   2 Fine resid/bnorm = 1.400259271e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.960121761e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.203317464e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.579935369e-08, 2.203317464e-10
+MLMG: Timers: Solve = 0.045290317 Iter = 0.041202098 Bottom = 0.000267267
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 503] max |rho| at level 0 = 50.6932251
+  [step 503] max |rho| at level 1 = 245.5909869
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 245.5909869
+MLMG: Initial residual (resid0) = 245.5909869
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002206818236
+MLMG: Iteration   2 Fine resid/bnorm = 1.261380803e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.264714368e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.145279247e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.812702604e-08, 1.145279247e-10
+MLMG: Timers: Solve = 0.034915702 Iter = 0.031804275 Bottom = 0.0002298650002
+  [step 504] max |rho| at level 0 = 55.6115022
+  [step 504] max |rho| at level 1 = 282.953439
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 282.953439
+MLMG: Initial residual (resid0) = 271.5706596
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001967146748
+MLMG: Iteration   2 Fine resid/bnorm = 1.221792772e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.20095035e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.085490283e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.071432086e-08, 1.085490283e-10
+MLMG: Timers: Solve = 0.034048298 Iter = 0.030759234 Bottom = 0.0002254569999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 505] max |rho| at level 0 = 57.01283602
+  [step 505] max |rho| at level 1 = 311.095049
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 311.095049
+MLMG: Initial residual (resid0) = 299.2912432
+MLMG: Iteration   1 Fine resid/bnorm = 0.0001859503209
+MLMG: Iteration   2 Fine resid/bnorm = 1.238121883e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.192468558e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.077025343e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.350572519e-08, 1.077025343e-10
+MLMG: Timers: Solve = 0.033513204 Iter = 0.030740469 Bottom = 0.0002242750001
+  [step 506] max |rho| at level 0 = 55.52396254
+  [step 506] max |rho| at level 1 = 278.3212694
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 278.3212694
+MLMG: Initial residual (resid0) = 266.3243088
+MLMG: Iteration   1 Fine resid/bnorm = 0.000217014696
+MLMG: Iteration   2 Fine resid/bnorm = 1.534349611e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.444220234e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.306657419e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.636705515e-08, 1.306657419e-10
+MLMG: Timers: Solve = 0.033773848 Iter = 0.030581487 Bottom = 0.000206882
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 507] max |rho| at level 0 = 61.69582557
+  [step 507] max |rho| at level 1 = 277.2828465
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 277.2828465
+MLMG: Initial residual (resid0) = 260.7273498
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002364432087
+MLMG: Iteration   2 Fine resid/bnorm = 1.695401335e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.552766926e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.420595279e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.939067028e-08, 1.420595279e-10
+MLMG: Timers: Solve = 0.034384556 Iter = 0.031360394 Bottom = 0.0002320899998
+  [step 508] max |rho| at level 0 = 67.4167609
+  [step 508] max |rho| at level 1 = 315.304595
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 315.304595
+MLMG: Initial residual (resid0) = 299.7128537
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002283202179
+MLMG: Iteration   2 Fine resid/bnorm = 1.650374562e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.458303672e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.354166099e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.269747933e-08, 1.354166099e-10
+MLMG: Timers: Solve = 0.034161714 Iter = 0.031003217 Bottom = 0.0002205279999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 509] max |rho| at level 0 = 68.78103184
+  [step 509] max |rho| at level 1 = 329.501567
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 329.501567
+MLMG: Initial residual (resid0) = 313.316772
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002346887848
+MLMG: Iteration   2 Fine resid/bnorm = 1.729411917e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.483456021e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.397568594e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.605010417e-08, 1.397568594e-10
+MLMG: Timers: Solve = 0.034018862 Iter = 0.030668772 Bottom = 0.0002126919999
+  [step 510] max |rho| at level 0 = 69.35653267
+  [step 510] max |rho| at level 1 = 308.3155627
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 308.3155627
+MLMG: Initial residual (resid0) = 289.426665
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002641720328
+MLMG: Iteration   2 Fine resid/bnorm = 2.017834687e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.708990697e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.604171948e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.945911769e-08, 1.604171948e-10
+MLMG: Timers: Solve = 0.033667567 Iter = 0.030499021 Bottom = 0.000206923
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 511] max |rho| at level 0 = 77.77306974
+  [step 511] max |rho| at level 1 = 319.9197445
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 319.9197445
+MLMG: Initial residual (resid0) = 305.1137191
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002774919194
+MLMG: Iteration   2 Fine resid/bnorm = 2.104345186e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.775113095e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.654438011e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.292873858e-08, 1.654438011e-10
+MLMG: Timers: Solve = 0.03400675 Iter = 0.030722764 Bottom = 0.0002111299999
+  [step 512] max |rho| at level 0 = 97.42778995
+  [step 512] max |rho| at level 1 = 400.2624667
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 400.2624667
+MLMG: Initial residual (resid0) = 363.8888693
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002504697104
+MLMG: Iteration   2 Fine resid/bnorm = 1.808633647e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.514637615e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.430428691e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.725469165e-08, 1.430428691e-10
+MLMG: Timers: Solve = 0.034496838 Iter = 0.031466825 Bottom = 0.0002297349998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 513] max |rho| at level 0 = 118.7884775
+  [step 513] max |rho| at level 1 = 460.8905977
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 460.8905977
+MLMG: Initial residual (resid0) = 407.2158928
+MLMG: Iteration   1 Fine resid/bnorm = 0.000241574345
+MLMG: Iteration   2 Fine resid/bnorm = 1.685737641e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.403646974e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.357211795e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.255261553e-08, 1.357211795e-10
+MLMG: Timers: Solve = 0.034571119 Iter = 0.031238332 Bottom = 0.0002022030001
+  [step 514] max |rho| at level 0 = 143.7867873
+  [step 514] max |rho| at level 1 = 517.0050962
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 517.0050962
+MLMG: Initial residual (resid0) = 457.8616888
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002387951943
+MLMG: Iteration   2 Fine resid/bnorm = 1.589155644e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.319724929e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.313988644e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.793388252e-08, 1.313988644e-10
+MLMG: Timers: Solve = 0.033540445 Iter = 0.030150059 Bottom = 0.0002347570002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 515] max |rho| at level 0 = 166.3745435
+  [step 515] max |rho| at level 1 = 465.3381046
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 465.3381046
+MLMG: Initial residual (resid0) = 400.6244828
+MLMG: Iteration   1 Fine resid/bnorm = 0.0002979669634
+MLMG: Iteration   2 Fine resid/bnorm = 1.882813933e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.566656179e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.585017419e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.375690014e-08, 1.585017419e-10
+MLMG: Timers: Solve = 0.033962927 Iter = 0.030650277 Bottom = 0.00023735
+  [step 516] max |rho| at level 0 = 188.428096
+  [step 516] max |rho| at level 1 = 511.2492074
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 511.2492074
+MLMG: Initial residual (resid0) = 484.7145644
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003053648581
+MLMG: Iteration   2 Fine resid/bnorm = 1.879321035e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.559541481e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.595571008e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 8.157344134e-08, 1.595571008e-10
+MLMG: Timers: Solve = 0.033882174 Iter = 0.030797186 Bottom = 0.000222894
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 517] max |rho| at level 0 = 209.0320934
+  [step 517] max |rho| at level 1 = 569.782343
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 569.782343
+MLMG: Initial residual (resid0) = 542.3702545
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003132913138
+MLMG: Iteration   2 Fine resid/bnorm = 1.871528283e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.552654886e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.586784127e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 9.041215776e-08, 1.586784127e-10
+MLMG: Timers: Solve = 0.034515354 Iter = 0.031018956 Bottom = 0.0002202080001
+  [step 518] max |rho| at level 0 = 219.9256926
+  [step 518] max |rho| at level 1 = 610.2103384
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 610.2103384
+MLMG: Initial residual (resid0) = 582.2081574
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003294267742
+MLMG: Iteration   2 Fine resid/bnorm = 1.920903079e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.631843893e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.680637868e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.025542602e-07, 1.680637868e-10
+MLMG: Timers: Solve = 0.033915977 Iter = 0.030702166 Bottom = 0.000216972
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 519] max |rho| at level 0 = 225.1495467
+  [step 519] max |rho| at level 1 = 590.5223253
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 590.5223253
+MLMG: Initial residual (resid0) = 492.7418007
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003783999118
+MLMG: Iteration   2 Fine resid/bnorm = 2.149758109e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.869911528e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.943943513e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.147942044e-07, 1.943943513e-10
+MLMG: Timers: Solve = 0.034991276 Iter = 0.031708423 Bottom = 0.0002118920002
+  [step 520] max |rho| at level 0 = 224.5529235
+  [step 520] max |rho| at level 1 = 683.7070391
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 683.7070391
+MLMG: Initial residual (resid0) = 575.0271207
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003614160305
+MLMG: Iteration   2 Fine resid/bnorm = 1.987715524e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.77358763e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.860741783e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.272202255e-07, 1.860741783e-10
+MLMG: Timers: Solve = 0.034432738 Iter = 0.031005962 Bottom = 0.000215168
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 521] max |rho| at level 0 = 226.7955487
+  [step 521] max |rho| at level 1 = 770.1860296
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 770.1860296
+MLMG: Initial residual (resid0) = 710.802679
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003553406051
+MLMG: Iteration   2 Fine resid/bnorm = 1.927205737e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.734187702e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.826294476e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.406586492e-07, 1.826294476e-10
+MLMG: Timers: Solve = 0.037407275 Iter = 0.031305519 Bottom = 0.0001969739998
+  [step 522] max |rho| at level 0 = 257.7444634
+  [step 522] max |rho| at level 1 = 948.1482294
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 948.1482294
+MLMG: Initial residual (resid0) = 881.0993754
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003166417416
+MLMG: Iteration   2 Fine resid/bnorm = 1.73926072e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.571241953e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.722100124e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.632806184e-07, 1.722100124e-10
+MLMG: Timers: Solve = 0.033518514 Iter = 0.030549156 Bottom = 0.0001990270001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 523] max |rho| at level 0 = 307.7986667
+  [step 523] max |rho| at level 1 = 968.9603092
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 968.9603092
+MLMG: Initial residual (resid0) = 893.6968687
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003440438875
+MLMG: Iteration   2 Fine resid/bnorm = 1.966238916e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.830069082e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.986163132e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.924513242e-07, 1.986163132e-10
+MLMG: Timers: Solve = 0.034066874 Iter = 0.031318323 Bottom = 0.0001869040001
+  [step 524] max |rho| at level 0 = 349.500254
+  [step 524] max |rho| at level 1 = 1007.34122
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 1007.34122
+MLMG: Initial residual (resid0) = 923.0795461
+MLMG: Iteration   1 Fine resid/bnorm = 0.0003635208315
+MLMG: Iteration   2 Fine resid/bnorm = 2.190673063e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.112394578e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.302527543e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.319430905e-07, 2.302527543e-10
+MLMG: Timers: Solve = 0.034836453 Iter = 0.031652427 Bottom = 0.000208194
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 525] max |rho| at level 0 = 387.0099161
+  [step 525] max |rho| at level 1 = 1170.74
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1170.74
+MLMG: Initial residual (resid0) = 999.2391839
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006621151924
+MLMG: Iteration   2 Fine resid/bnorm = 7.355523329e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.090579189e-07
+MLMG: Iteration   4 Fine resid/bnorm = 3.044788373e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.56465554e-06, 3.044788373e-09
+MLMG: Timers: Solve = 0.034450431 Iter = 0.031409747 Bottom = 0.001629991
+  [step 526] max |rho| at level 0 = 524.0866666
+  [step 526] max |rho| at level 1 = 1726.396697
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1726.396697
+MLMG: Initial residual (resid0) = 1491.829862
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005496901252
+MLMG: Iteration   2 Fine resid/bnorm = 5.876601908e-06
+MLMG: Iteration   3 Fine resid/bnorm = 7.856726141e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.083048454e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.596167971e-06, 2.083048454e-09
+MLMG: Timers: Solve = 0.034506046 Iter = 0.03135852 Bottom = 0.00164177
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 527] max |rho| at level 0 = 709.8749475
+  [step 527] max |rho| at level 1 = 2012.728668
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2012.728668
+MLMG: Initial residual (resid0) = 1751.123853
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007969222148
+MLMG: Iteration   2 Fine resid/bnorm = 6.524665542e-06
+MLMG: Iteration   3 Fine resid/bnorm = 9.49591073e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.702165842e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.425997988e-06, 1.702165842e-09
+MLMG: Timers: Solve = 0.033755383 Iter = 0.030107839 Bottom = 0.001701796
+  [step 528] max |rho| at level 0 = 860.9748669
+  [step 528] max |rho| at level 1 = 2298.874576
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2298.874576
+MLMG: Initial residual (resid0) = 1860.192188
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009357076164
+MLMG: Iteration   2 Fine resid/bnorm = 7.215657054e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.027121984e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.676803314e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.854760507e-06, 1.676803314e-09
+MLMG: Timers: Solve = 0.032269046 Iter = 0.029087345 Bottom = 0.001620622
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 529] max |rho| at level 0 = 925.1872469
+  [step 529] max |rho| at level 1 = 2423.328531
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2423.328531
+MLMG: Initial residual (resid0) = 2316.00265
+MLMG: Iteration   1 Fine resid/bnorm = 0.001172867209
+MLMG: Iteration   2 Fine resid/bnorm = 8.469070412e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.041787808e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.222654766e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.386222711e-06, 2.222654766e-09
+MLMG: Timers: Solve = 0.028834345 Iter = 0.026232964 Bottom = 0.001437815
+  [step 530] max |rho| at level 0 = 880.1326367
+  [step 530] max |rho| at level 1 = 2480.780284
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2480.780284
+MLMG: Initial residual (resid0) = 2340.440444
+MLMG: Iteration   1 Fine resid/bnorm = 0.00143439244
+MLMG: Iteration   2 Fine resid/bnorm = 1.058080442e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.232639237e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.15704676e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.351159075e-06, 2.15704676e-09
+MLMG: Timers: Solve = 0.035661496 Iter = 0.026472749 Bottom = 0.001472351
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 531] max |rho| at level 0 = 855.3706194
+  [step 531] max |rho| at level 1 = 3005.006275
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 3005.006275
+MLMG: Initial residual (resid0) = 2772.204505
+MLMG: Iteration   1 Fine resid/bnorm = 0.001011005939
+MLMG: Iteration   2 Fine resid/bnorm = 1.016938965e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.10547698e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.252641231e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.769201036e-06, 2.252641231e-09
+MLMG: Timers: Solve = 0.027825092 Iter = 0.02485342 Bottom = 0.001427756
+  [step 532] max |rho| at level 0 = 1169.022723
+  [step 532] max |rho| at level 1 = 3433.289667
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 3433.289667
+MLMG: Initial residual (resid0) = 3174.420556
+MLMG: Iteration   1 Fine resid/bnorm = 0.001239236071
+MLMG: Iteration   2 Fine resid/bnorm = 1.107010545e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.156743417e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.029922691e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.9693126e-06, 2.029922691e-09
+MLMG: Timers: Solve = 0.027929891 Iter = 0.024571666 Bottom = 0.001484585
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 533] max |rho| at level 0 = 1430.833197
+  [step 533] max |rho| at level 1 = 3014.42198
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 3014.42198
+MLMG: Initial residual (resid0) = 3014.42198
+MLMG: Iteration   1 Fine resid/bnorm = 0.002042053524
+MLMG: Iteration   2 Fine resid/bnorm = 1.316788551e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.1444231e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.164443271e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.52454537e-06, 2.164443271e-09
+MLMG: Timers: Solve = 0.020840022 Iter = 0.018378036 Bottom = 0.001012439
+  [step 534] max |rho| at level 0 = 1602.551545
+  [step 534] max |rho| at level 1 = 4248.28025
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 4248.28025
+MLMG: Initial residual (resid0) = 3853.372517
+MLMG: Iteration   1 Fine resid/bnorm = 0.001852510298
+MLMG: Iteration   2 Fine resid/bnorm = 1.113489348e-05
+MLMG: Iteration   3 Fine resid/bnorm = 9.644885427e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.572748102e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.681474702e-06, 1.572748102e-09
+MLMG: Timers: Solve = 0.01917733 Iter = 0.016965358 Bottom = 0.00090172
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 535] max |rho| at level 0 = 2198.386117
+  [step 535] max |rho| at level 1 = 4987.004718
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 4987.004718
+MLMG: Initial residual (resid0) = 4546.747874
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005342669379
+MLMG: Iteration   2 Fine resid/bnorm = 2.549920833e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.831283147e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.744500023e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.368683456e-06, 2.744500023e-10
+MLMG: Timers: Solve = 0.01183845 Iter = 0.01048799 Bottom = 0.000474471
+  [step 536] max |rho| at level 0 = 2958.051584
+  [step 536] max |rho| at level 1 = 6728.317026
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 6728.317026
+MLMG: Initial residual (resid0) = 5699.73958
+MLMG: Iteration   1 Fine resid/bnorm = 0.0004334644629
+MLMG: Iteration   2 Fine resid/bnorm = 2.033062048e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.444271444e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.062761456e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.387891302e-06, 2.062761456e-10
+MLMG: Timers: Solve = 0.010903898 Iter = 0.009513413 Bottom = 0.000385791
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 537] max |rho| at level 0 = 3334.144182
+  [step 537] max |rho| at level 1 = 6461.744085
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 6461.744085
+MLMG: Initial residual (resid0) = 5361.393919
+MLMG: Iteration   1 Fine resid/bnorm = 0.0004752652934
+MLMG: Iteration   2 Fine resid/bnorm = 2.120412964e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.242832924e-08
+MLMG: Iteration   4 Fine resid/bnorm = 9.351691572e-11
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.04282377e-07, 9.351691572e-11
+MLMG: Timers: Solve = 0.006268301 Iter = 0.005266553 Bottom = 7.898999991e-05
+  [step 538] max |rho| at level 0 = 3345.780296
+  [step 538] max |rho| at level 1 = 5849.139725
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 5849.139725
+MLMG: Initial residual (resid0) = 4726.833565
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005329181468
+MLMG: Iteration   2 Fine resid/bnorm = 2.418293606e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.418141849e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.071622802e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.268071502e-07, 1.071622802e-10
+MLMG: Timers: Solve = 0.006859432 Iter = 0.005862683 Bottom = 0.0001126039999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 539] max |rho| at level 0 = 3114.386278
+  [step 539] max |rho| at level 1 = 6434.635377
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 6434.635377
+MLMG: Initial residual (resid0) = 4722.412594
+MLMG: Iteration   1 Fine resid/bnorm = 0.0004813042236
+MLMG: Iteration   2 Fine resid/bnorm = 2.200243527e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.295017727e-08
+MLMG: Iteration   4 Fine resid/bnorm = 9.846308004e-11
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.335740181e-07, 9.846308004e-11
+MLMG: Timers: Solve = 0.006490032 Iter = 0.005485638 Bottom = 0.0001092359998
+  [step 540] max |rho| at level 0 = 2660.62252
+  [step 540] max |rho| at level 1 = 4988.129372
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 4988.129372
+MLMG: Initial residual (resid0) = 3375.536927
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006027484628
+MLMG: Iteration   2 Fine resid/bnorm = 2.779440172e-06
+MLMG: Iteration   3 Fine resid/bnorm = 1.647018195e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.262048887e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.29526312e-07, 1.262048887e-10
+MLMG: Timers: Solve = 0.006311563 Iter = 0.005400787 Bottom = 8.491100004e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 541] max |rho| at level 0 = 2183.537617
+  [step 541] max |rho| at level 1 = 3672.175933
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 3672.175933
+MLMG: Initial residual (resid0) = 3030.582057
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007675579269
+MLMG: Iteration   2 Fine resid/bnorm = 3.565236473e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.053549668e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.465004532e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.379754384e-07, 1.465004532e-10
+MLMG: Timers: Solve = 0.004697635 Iter = 0.003888601 Bottom = 8.289799996e-05
+  [step 542] max |rho| at level 0 = 1847.653109
+  [step 542] max |rho| at level 1 = 3112.596598
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 3112.596598
+MLMG: Initial residual (resid0) = 2789.454411
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008191259098
+MLMG: Iteration   2 Fine resid/bnorm = 3.887607241e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.266203715e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.631224915e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.077345122e-07, 1.631224915e-10
+MLMG: Timers: Solve = 0.004742189 Iter = 0.003865537 Bottom = 9.497100018e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 543] max |rho| at level 0 = 1577.085308
+  [step 543] max |rho| at level 1 = 2852.26767
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2852.26767
+MLMG: Initial residual (resid0) = 2214.634598
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007869867133
+MLMG: Iteration   2 Fine resid/bnorm = 3.835293206e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.272202677e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.650404189e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.70739451e-07, 1.650404189e-10
+MLMG: Timers: Solve = 0.004781122 Iter = 0.003976237 Bottom = 8.146499999e-05
+  [step 544] max |rho| at level 0 = 1300.588876
+  [step 544] max |rho| at level 1 = 1957.861483
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1957.861483
+MLMG: Initial residual (resid0) = 1549.018226
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009980019128
+MLMG: Iteration   2 Fine resid/bnorm = 4.994849157e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.026165634e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.209035794e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.324986094e-07, 2.209035794e-10
+MLMG: Timers: Solve = 0.004686073 Iter = 0.003870677 Bottom = 8.552200006e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 545] max |rho| at level 0 = 1150.191258
+  [step 545] max |rho| at level 1 = 1986.274532
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1986.274532
+MLMG: Initial residual (resid0) = 1679.438912
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008565282747
+MLMG: Iteration   2 Fine resid/bnorm = 4.376867001e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.702585684e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.985559812e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.943866886e-07, 1.985559812e-10
+MLMG: Timers: Solve = 0.004671996 Iter = 0.003905342 Bottom = 8.425999999e-05
+  [step 546] max |rho| at level 0 = 1150.546914
+  [step 546] max |rho| at level 1 = 2291.713054
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2291.713054
+MLMG: Initial residual (resid0) = 1564.955861
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006561468242
+MLMG: Iteration   2 Fine resid/bnorm = 3.376090964e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.109601299e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.559382243e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.573656642e-07, 1.559382243e-10
+MLMG: Timers: Solve = 0.004695871 Iter = 0.003843946 Bottom = 7.192500004e-05
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 547] max |rho| at level 0 = 1115.021734
+  [step 547] max |rho| at level 1 = 2018.879249
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2018.879249
+MLMG: Initial residual (resid0) = 1314.63595
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007082569733
+MLMG: Iteration   2 Fine resid/bnorm = 4.342507651e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.373216954e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.894867351e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.844387623e-07, 2.894867351e-10
+MLMG: Timers: Solve = 0.013836417 Iter = 0.012446943 Bottom = 0.000249151
+  [step 548] max |rho| at level 0 = 1072.180391
+  [step 548] max |rho| at level 1 = 1961.299096
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1961.299096
+MLMG: Initial residual (resid0) = 1181.870791
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007024398312
+MLMG: Iteration   2 Fine resid/bnorm = 4.122230125e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.192753844e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.750176978e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.393919622e-07, 2.750176978e-10
+MLMG: Timers: Solve = 0.013643621 Iter = 0.012238087 Bottom = 0.000184018
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 549] max |rho| at level 0 = 1067.763962
+  [step 549] max |rho| at level 1 = 1970.486056
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1970.486056
+MLMG: Initial residual (resid0) = 1210.607367
+MLMG: Iteration   1 Fine resid/bnorm = 0.001317005524
+MLMG: Iteration   2 Fine resid/bnorm = 8.760075819e-06
+MLMG: Iteration   3 Fine resid/bnorm = 7.912778226e-08
+MLMG: Iteration   4 Fine resid/bnorm = 8.165176856e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.608936714e-06, 8.165176856e-10
+MLMG: Timers: Solve = 0.022507182 Iter = 0.02011099 Bottom = 0.0009058080001
+  [step 550] max |rho| at level 0 = 1081.847709
+  [step 550] max |rho| at level 1 = 1973.6899
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1973.6899
+MLMG: Initial residual (resid0) = 1264.55881
+MLMG: Iteration   1 Fine resid/bnorm = 0.001279623159
+MLMG: Iteration   2 Fine resid/bnorm = 8.374793561e-06
+MLMG: Iteration   3 Fine resid/bnorm = 7.554998793e-08
+MLMG: Iteration   4 Fine resid/bnorm = 8.155157976e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.609575293e-06, 8.155157976e-10
+MLMG: Timers: Solve = 0.022661865 Iter = 0.020337279 Bottom = 0.0009479280002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 551] max |rho| at level 0 = 1089.737859
+  [step 551] max |rho| at level 1 = 1935.466969
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1935.466969
+MLMG: Initial residual (resid0) = 1356.828471
+MLMG: Iteration   1 Fine resid/bnorm = 0.002271700229
+MLMG: Iteration   2 Fine resid/bnorm = 1.697280234e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.921829146e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.680346717e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.187722536e-06, 2.680346717e-09
+MLMG: Timers: Solve = 0.034686749 Iter = 0.025078546 Bottom = 0.001366381
+  [step 552] max |rho| at level 0 = 1115.751782
+  [step 552] max |rho| at level 1 = 2027.997518
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2027.997518
+MLMG: Initial residual (resid0) = 1538.910155
+MLMG: Iteration   1 Fine resid/bnorm = 0.002183996438
+MLMG: Iteration   2 Fine resid/bnorm = 1.619930648e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.822454676e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.541498154e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.15415195e-06, 2.541498154e-09
+MLMG: Timers: Solve = 0.033292726 Iter = 0.023684924 Bottom = 0.001446893
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 553] max |rho| at level 0 = 1145.960259
+  [step 553] max |rho| at level 1 = 2185.471058
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2185.471058
+MLMG: Initial residual (resid0) = 1642.875199
+MLMG: Iteration   1 Fine resid/bnorm = 0.002060862129
+MLMG: Iteration   2 Fine resid/bnorm = 1.506548784e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.657263192e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.249293622e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.915766112e-06, 2.249293622e-09
+MLMG: Timers: Solve = 0.034937564 Iter = 0.02518611 Bottom = 0.001365939
+  [step 554] max |rho| at level 0 = 1219.391816
+  [step 554] max |rho| at level 1 = 2466.344362
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2466.344362
+MLMG: Initial residual (resid0) = 1790.795951
+MLMG: Iteration   1 Fine resid/bnorm = 0.001874369317
+MLMG: Iteration   2 Fine resid/bnorm = 1.357682593e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.48236283e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.004125211e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.942862915e-06, 2.004125211e-09
+MLMG: Timers: Solve = 0.02871552 Iter = 0.025719211 Bottom = 0.001365799
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 555] max |rho| at level 0 = 1290.343385
+  [step 555] max |rho| at level 1 = 2720.624157
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2720.624157
+MLMG: Initial residual (resid0) = 1953.189794
+MLMG: Iteration   1 Fine resid/bnorm = 0.001815031225
+MLMG: Iteration   2 Fine resid/bnorm = 1.540520469e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.786572994e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.435108404e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.625014748e-06, 2.435108404e-09
+MLMG: Timers: Solve = 0.032383653 Iter = 0.029121099 Bottom = 0.001646622
+  [step 556] max |rho| at level 0 = 1329.83717
+  [step 556] max |rho| at level 1 = 2863.237918
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2863.237918
+MLMG: Initial residual (resid0) = 2090.476824
+MLMG: Iteration   1 Fine resid/bnorm = 0.001752122693
+MLMG: Iteration   2 Fine resid/bnorm = 1.478364239e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.703171419e-07
+MLMG: Iteration   4 Fine resid/bnorm = 2.311777412e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.619168744e-06, 2.311777412e-09
+MLMG: Timers: Solve = 0.039647372 Iter = 0.030004473 Bottom = 0.001792868
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 557] max |rho| at level 0 = 1331.635051
+  [step 557] max |rho| at level 1 = 2837.44276
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2837.44276
+MLMG: Initial residual (resid0) = 2063.532231
+MLMG: Iteration   1 Fine resid/bnorm = 0.0004937322213
+MLMG: Iteration   2 Fine resid/bnorm = 2.793198195e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.307190748e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.259572984e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.411409004e-07, 2.259572984e-10
+MLMG: Timers: Solve = 0.035063891 Iter = 0.031429703 Bottom = 0.0002322419999
+  [step 558] max |rho| at level 0 = 1278.806659
+  [step 558] max |rho| at level 1 = 2587.147775
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2587.147775
+MLMG: Initial residual (resid0) = 1818.599595
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005420955942
+MLMG: Iteration   2 Fine resid/bnorm = 3.061133621e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.528998454e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.475108916e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.403472526e-07, 2.475108916e-10
+MLMG: Timers: Solve = 0.034209862 Iter = 0.03094804 Bottom = 0.0002103789999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 559] max |rho| at level 0 = 1251.161316
+  [step 559] max |rho| at level 1 = 2499.294554
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2499.294554
+MLMG: Initial residual (resid0) = 1735.375403
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005612875327
+MLMG: Iteration   2 Fine resid/bnorm = 3.162456798e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.613863653e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.556603787e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.389705922e-07, 2.556603787e-10
+MLMG: Timers: Solve = 0.034218429 Iter = 0.031177355 Bottom = 0.0002037860002
+  [step 560] max |rho| at level 0 = 1238.710408
+  [step 560] max |rho| at level 1 = 2422.148478
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2422.148478
+MLMG: Initial residual (resid0) = 1745.231957
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005792682832
+MLMG: Iteration   2 Fine resid/bnorm = 3.259375045e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.692676536e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.632539204e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.376400826e-07, 2.632539204e-10
+MLMG: Timers: Solve = 0.035421269 Iter = 0.031825423 Bottom = 0.000225578
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 561] max |rho| at level 0 = 1201.068342
+  [step 561] max |rho| at level 1 = 2211.673415
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2211.673415
+MLMG: Initial residual (resid0) = 1720.868557
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006365976743
+MLMG: Iteration   2 Fine resid/bnorm = 3.573127052e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.946202719e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.87962244e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.368784398e-07, 2.87962244e-10
+MLMG: Timers: Solve = 0.033958756 Iter = 0.031072475 Bottom = 0.0001911609999
+  [step 562] max |rho| at level 0 = 1164.285147
+  [step 562] max |rho| at level 1 = 2019.585254
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2019.585254
+MLMG: Initial residual (resid0) = 1778.759994
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006995371556
+MLMG: Iteration   2 Fine resid/bnorm = 3.914123562e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.211329861e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.139481907e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.340451364e-07, 3.139481907e-10
+MLMG: Timers: Solve = 0.033808372 Iter = 0.030629296 Bottom = 0.000202475
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 563] max |rho| at level 0 = 1152.104689
+  [step 563] max |rho| at level 1 = 2336.887097
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2336.887097
+MLMG: Initial residual (resid0) = 2095.257606
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006071711401
+MLMG: Iteration   2 Fine resid/bnorm = 3.38944991e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.767665074e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.705981084e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.323572279e-07, 2.705981084e-10
+MLMG: Timers: Solve = 0.034093302 Iter = 0.030738523 Bottom = 0.000228113
+  [step 564] max |rho| at level 0 = 1150.931701
+  [step 564] max |rho| at level 1 = 2027.859631
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2027.859631
+MLMG: Initial residual (resid0) = 1786.628481
+MLMG: Iteration   1 Fine resid/bnorm = 0.000706429749
+MLMG: Iteration   2 Fine resid/bnorm = 3.937489371e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.199976274e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.129616683e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.346423334e-07, 3.129616683e-10
+MLMG: Timers: Solve = 0.034308099 Iter = 0.030931729 Bottom = 0.000221068
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 565] max |rho| at level 0 = 1157.447905
+  [step 565] max |rho| at level 1 = 2027.065969
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2027.065969
+MLMG: Initial residual (resid0) = 1527.35856
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007141618686
+MLMG: Iteration   2 Fine resid/bnorm = 3.972703599e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.21229376e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.14172708e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.368488048e-07, 3.14172708e-10
+MLMG: Timers: Solve = 0.03458827 Iter = 0.031705276 Bottom = 0.0002069109999
+  [step 566] max |rho| at level 0 = 1145.445074
+  [step 566] max |rho| at level 1 = 2392.263718
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 5
+MLMG: Initial rhs               = 2392.263718
+MLMG: Initial residual (resid0) = 1890.481419
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006106483123
+MLMG: Iteration   2 Fine resid/bnorm = 3.395665412e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.731841178e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.674082476e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.397110486e-07, 2.674082476e-10
+MLMG: Timers: Solve = 0.033848277 Iter = 0.030893676 Bottom = 0.0002290540001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 567] max |rho| at level 0 = 1129.764524
+  [step 567] max |rho| at level 1 = 2640.745882
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2640.745882
+MLMG: Initial residual (resid0) = 2138.288783
+MLMG: Iteration   1 Fine resid/bnorm = 0.001841879309
+MLMG: Iteration   2 Fine resid/bnorm = 1.20758495e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.158527478e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.65030865e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.358045771e-06, 1.65030865e-09
+MLMG: Timers: Solve = 0.037734583 Iter = 0.033822719 Bottom = 0.001687539
+  [step 568] max |rho| at level 0 = 1121.088383
+  [step 568] max |rho| at level 1 = 2653.268785
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2653.268785
+MLMG: Initial residual (resid0) = 2148.994238
+MLMG: Iteration   1 Fine resid/bnorm = 0.001835399545
+MLMG: Iteration   2 Fine resid/bnorm = 1.19421908e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.145307201e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.658486425e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.400410262e-06, 1.658486425e-09
+MLMG: Timers: Solve = 0.039218105 Iter = 0.035159322 Bottom = 0.001753546
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 569] max |rho| at level 0 = 1084.466396
+  [step 569] max |rho| at level 1 = 2396.135567
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2396.135567
+MLMG: Initial residual (resid0) = 1990.484809
+MLMG: Iteration   1 Fine resid/bnorm = 0.001674524926
+MLMG: Iteration   2 Fine resid/bnorm = 1.124076781e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.012219202e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.063108409e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.547351869e-06, 1.063108409e-09
+MLMG: Timers: Solve = 0.046029346 Iter = 0.042096952 Bottom = 0.0018987
+  [step 570] max |rho| at level 0 = 1056.619206
+  [step 570] max |rho| at level 1 = 2357.621969
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2357.621969
+MLMG: Initial residual (resid0) = 2111.559417
+MLMG: Iteration   1 Fine resid/bnorm = 0.001688473802
+MLMG: Iteration   2 Fine resid/bnorm = 1.136784982e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.024862444e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.076519934e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.538027047e-06, 1.076519934e-09
+MLMG: Timers: Solve = 0.045221013 Iter = 0.04079818 Bottom = 0.00186738
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 571] max |rho| at level 0 = 1025.717854
+  [step 571] max |rho| at level 1 = 2254.19843
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2254.19843
+MLMG: Initial residual (resid0) = 2253.279738
+MLMG: Iteration   1 Fine resid/bnorm = 0.001762364739
+MLMG: Iteration   2 Fine resid/bnorm = 1.197912072e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.089397445e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.167178115e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.631051075e-06, 1.167178115e-09
+MLMG: Timers: Solve = 0.041790762 Iter = 0.037728622 Bottom = 0.00156151
+  [step 572] max |rho| at level 0 = 982.1998999
+  [step 572] max |rho| at level 1 = 2164.256557
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2164.256557
+MLMG: Initial residual (resid0) = 2164.256557
+MLMG: Iteration   1 Fine resid/resid0 = 0.001816184173
+MLMG: Iteration   2 Fine resid/resid0 = 1.244893689e-05
+MLMG: Iteration   3 Fine resid/resid0 = 1.132130984e-07
+MLMG: Iteration   4 Fine resid/resid0 = 1.212002815e-09
+MLMG: Final Iter. 4 resid, resid/resid0 = 2.623085038e-06, 1.212002815e-09
+MLMG: Timers: Solve = 0.042112401 Iter = 0.037978516 Bottom = 0.001708529
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 573] max |rho| at level 0 = 964.0227415
+  [step 573] max |rho| at level 1 = 2002.967714
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2002.967714
+MLMG: Initial residual (resid0) = 2002.967714
+MLMG: Iteration   1 Fine resid/bnorm = 0.001925052487
+MLMG: Iteration   2 Fine resid/bnorm = 1.32345862e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.192080641e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.473032486e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.95043651e-06, 1.473032486e-09
+MLMG: Timers: Solve = 0.047407849 Iter = 0.04311931 Bottom = 0.002212173
+  [step 574] max |rho| at level 0 = 955.8002829
+  [step 574] max |rho| at level 1 = 1968.540672
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1968.540672
+MLMG: Initial residual (resid0) = 1687.625333
+MLMG: Iteration   1 Fine resid/bnorm = 0.001926630002
+MLMG: Iteration   2 Fine resid/bnorm = 1.333649039e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.20130576e-07
+MLMG: Iteration   4 Fine resid/bnorm = 1.415141514e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 2.785763627e-06, 1.415141514e-09
+MLMG: Timers: Solve = 0.052391294 Iter = 0.042087343 Bottom = 0.001963372
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 575] max |rho| at level 0 = 959.2952446
+  [step 575] max |rho| at level 1 = 2130.49159
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2130.49159
+MLMG: Initial residual (resid0) = 1631.085109
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006947672548
+MLMG: Iteration   2 Fine resid/bnorm = 3.990231946e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.100185502e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.754954467e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.999898912e-07, 3.754954467e-10
+MLMG: Timers: Solve = 0.04008086 Iter = 0.036152625 Bottom = 0.001561028
+  [step 576] max |rho| at level 0 = 966.9730117
+  [step 576] max |rho| at level 1 = 2296.575169
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2296.575169
+MLMG: Initial residual (resid0) = 1797.755425
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006426696573
+MLMG: Iteration   2 Fine resid/bnorm = 3.700124366e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.879780614e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.850012716e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.545268434e-07, 2.850012716e-10
+MLMG: Timers: Solve = 0.042664508 Iter = 0.038760768 Bottom = 0.001645288
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 577] max |rho| at level 0 = 959.3158926
+  [step 577] max |rho| at level 1 = 2445.435523
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2445.435523
+MLMG: Initial residual (resid0) = 1948.144975
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006034220938
+MLMG: Iteration   2 Fine resid/bnorm = 3.506227299e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.766257808e-08
+MLMG: Iteration   4 Fine resid/bnorm = 6.284492366e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.536832087e-06, 6.284492366e-10
+MLMG: Timers: Solve = 0.033341627 Iter = 0.030173291 Bottom = 0.001295597
+  [step 578] max |rho| at level 0 = 940.304212
+  [step 578] max |rho| at level 1 = 2341.648079
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2341.648079
+MLMG: Initial residual (resid0) = 1846.607715
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006277961993
+MLMG: Iteration   2 Fine resid/bnorm = 3.653902378e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.886244994e-08
+MLMG: Iteration   4 Fine resid/bnorm = 6.234423508e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.459882583e-06, 6.234423508e-10
+MLMG: Timers: Solve = 0.034580035 Iter = 0.031301119 Bottom = 0.001369005
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 579] max |rho| at level 0 = 914.2331318
+  [step 579] max |rho| at level 1 = 2198.813384
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2198.813384
+MLMG: Initial residual (resid0) = 1707.998547
+MLMG: Iteration   1 Fine resid/bnorm = 0.001558733847
+MLMG: Iteration   2 Fine resid/bnorm = 1.035801338e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.464969357e-07
+MLMG: Iteration   4 Fine resid/bnorm = 3.243623021e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.132121709e-06, 3.243623021e-09
+MLMG: Timers: Solve = 0.028064635 Iter = 0.02503887 Bottom = 0.001347153
+  [step 580] max |rho| at level 0 = 903.0213361
+  [step 580] max |rho| at level 1 = 1951.503428
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1951.503428
+MLMG: Initial residual (resid0) = 1638.694992
+MLMG: Iteration   1 Fine resid/bnorm = 0.001742442167
+MLMG: Iteration   2 Fine resid/bnorm = 1.156571387e-05
+MLMG: Iteration   3 Fine resid/bnorm = 1.638077915e-07
+MLMG: Iteration   4 Fine resid/bnorm = 3.705349035e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.231001344e-06, 3.705349035e-09
+MLMG: Timers: Solve = 0.028462409 Iter = 0.025211828 Bottom = 0.001456119
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 581] max |rho| at level 0 = 917.6274529
+  [step 581] max |rho| at level 1 = 1868.71833
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1868.71833
+MLMG: Initial residual (resid0) = 1582.33787
+MLMG: Iteration   1 Fine resid/bnorm = 0.002521392729
+MLMG: Iteration   2 Fine resid/bnorm = 2.025099661e-05
+MLMG: Iteration   3 Fine resid/bnorm = 2.381270437e-07
+MLMG: Iteration   4 Fine resid/bnorm = 5.605767058e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.047559965e-05, 5.605767058e-09
+MLMG: Timers: Solve = 0.035583015 Iter = 0.025809761 Bottom = 0.001437585
+  [step 582] max |rho| at level 0 = 939.9313485
+  [step 582] max |rho| at level 1 = 1837.844288
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1837.844288
+MLMG: Initial residual (resid0) = 1502.169763
+MLMG: Iteration   1 Fine resid/bnorm = 0.002561495529
+MLMG: Iteration   2 Fine resid/bnorm = 2.056201512e-05
+MLMG: Iteration   3 Fine resid/bnorm = 2.443507159e-07
+MLMG: Iteration   4 Fine resid/bnorm = 5.74796184e-09
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.056385884e-05, 5.74796184e-09
+MLMG: Timers: Solve = 0.029250403 Iter = 0.025982238 Bottom = 0.001496386
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 583] max |rho| at level 0 = 968.2436924
+  [step 583] max |rho| at level 1 = 1881.019258
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1881.019258
+MLMG: Initial residual (resid0) = 1545.45082
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007535019271
+MLMG: Iteration   2 Fine resid/bnorm = 4.137144492e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.565238478e-08
+MLMG: Iteration   4 Fine resid/bnorm = 6.428677656e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.209246648e-06, 6.428677656e-10
+MLMG: Timers: Solve = 0.025705323 Iter = 0.023070839 Bottom = 0.000955471
+  [step 584] max |rho| at level 0 = 982.0437913
+  [step 584] max |rho| at level 1 = 2044.473051
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2044.473051
+MLMG: Initial residual (resid0) = 1800.232853
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006891028866
+MLMG: Iteration   2 Fine resid/bnorm = 3.802951403e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.315678462e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.967798547e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.22010033e-06, 5.967798547e-10
+MLMG: Timers: Solve = 0.025627495 Iter = 0.023179886 Bottom = 0.0009732250001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 585] max |rho| at level 0 = 994.5348938
+  [step 585] max |rho| at level 1 = 2155.079554
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2155.079554
+MLMG: Initial residual (resid0) = 1911.64465
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006515790361
+MLMG: Iteration   2 Fine resid/bnorm = 3.615335518e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.261942083e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.870862251e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.26521752e-06, 5.870862251e-10
+MLMG: Timers: Solve = 0.024784227 Iter = 0.022136028 Bottom = 0.0008864700001
+  [step 586] max |rho| at level 0 = 1012.887296
+  [step 586] max |rho| at level 1 = 2086.686917
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2086.686917
+MLMG: Initial residual (resid0) = 1614.63025
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006705719453
+MLMG: Iteration   2 Fine resid/bnorm = 3.733987559e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.38554445e-08
+MLMG: Iteration   4 Fine resid/bnorm = 6.09591371e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.272026338e-06, 6.09591371e-10
+MLMG: Timers: Solve = 0.025145411 Iter = 0.022521929 Bottom = 0.0009679650001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 587] max |rho| at level 0 = 1037.080066
+  [step 587] max |rho| at level 1 = 2174.55859
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2174.55859
+MLMG: Initial residual (resid0) = 1692.202076
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006393927196
+MLMG: Iteration   2 Fine resid/bnorm = 3.467618295e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.998860119e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.089093251e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.106653144e-06, 5.089093251e-10
+MLMG: Timers: Solve = 0.025658304 Iter = 0.022741124 Bottom = 0.001029141
+  [step 588] max |rho| at level 0 = 1063.425565
+  [step 588] max |rho| at level 1 = 2105.696389
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2105.696389
+MLMG: Initial residual (resid0) = 1621.484983
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006584753178
+MLMG: Iteration   2 Fine resid/bnorm = 3.577258997e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.108432295e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.278974786e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.111591814e-06, 5.278974786e-10
+MLMG: Timers: Solve = 0.025679925 Iter = 0.022879036 Bottom = 0.001102659
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 589] max |rho| at level 0 = 1084.486852
+  [step 589] max |rho| at level 1 = 1928.725334
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1928.725334
+MLMG: Initial residual (resid0) = 1443.189644
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007168418749
+MLMG: Iteration   2 Fine resid/bnorm = 3.896075442e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.328997055e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.669099156e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.093413516e-06, 5.669099156e-10
+MLMG: Timers: Solve = 0.025726252 Iter = 0.023074696 Bottom = 0.001147685
+  [step 590] max |rho| at level 0 = 1100.738421
+  [step 590] max |rho| at level 1 = 1856.064429
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1856.064429
+MLMG: Initial residual (resid0) = 1454.241029
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007465329793
+MLMG: Iteration   2 Fine resid/bnorm = 4.052265927e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.494315874e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.953160184e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.104944886e-06, 5.953160184e-10
+MLMG: Timers: Solve = 0.024790449 Iter = 0.022128854 Bottom = 0.001199293
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 591] max |rho| at level 0 = 1105.867846
+  [step 591] max |rho| at level 1 = 2033.279323
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2033.279323
+MLMG: Initial residual (resid0) = 1785.347838
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006844253478
+MLMG: Iteration   2 Fine resid/bnorm = 3.704243733e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.22143157e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.490544692e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.1163811e-06, 5.490544692e-10
+MLMG: Timers: Solve = 0.021700211 Iter = 0.018989223 Bottom = 0.00081211
+  [step 592] max |rho| at level 0 = 1121.303094
+  [step 592] max |rho| at level 1 = 2029.384299
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2029.384299
+MLMG: Initial residual (resid0) = 1780.49577
+MLMG: Iteration   1 Fine resid/bnorm = 0.000688979712
+MLMG: Iteration   2 Fine resid/bnorm = 3.716869146e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.251760032e-08
+MLMG: Iteration   4 Fine resid/bnorm = 5.548347705e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 1.125972972e-06, 5.548347705e-10
+MLMG: Timers: Solve = 0.02184735 Iter = 0.019463652 Bottom = 0.0008074100003
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 593] max |rho| at level 0 = 1135.324324
+  [step 593] max |rho| at level 1 = 2034.236814
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2034.236814
+MLMG: Initial residual (resid0) = 1506.643074
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006834473159
+MLMG: Iteration   2 Fine resid/bnorm = 3.52376682e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.370748805e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.017017929e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.103092124e-07, 2.017017929e-10
+MLMG: Timers: Solve = 0.018619341 Iter = 0.01666623 Bottom = 0.000615527
+  [step 594] max |rho| at level 0 = 1120.316063
+  [step 594] max |rho| at level 1 = 1903.479827
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1903.479827
+MLMG: Initial residual (resid0) = 1485.812961
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007316991765
+MLMG: Iteration   2 Fine resid/bnorm = 3.760042475e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.533857942e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.156613194e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.105069711e-07, 2.156613194e-10
+MLMG: Timers: Solve = 0.019404701 Iter = 0.017310882 Bottom = 0.0007298530002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 595] max |rho| at level 0 = 1115.702579
+  [step 595] max |rho| at level 1 = 2077.128088
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2077.128088
+MLMG: Initial residual (resid0) = 1577.66029
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006704126806
+MLMG: Iteration   2 Fine resid/bnorm = 3.435608704e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.313171197e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.956242622e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.063366497e-07, 1.956242622e-10
+MLMG: Timers: Solve = 0.018659268 Iter = 0.016473414 Bottom = 0.0006597210001
+  [step 596] max |rho| at level 0 = 1110.769095
+  [step 596] max |rho| at level 1 = 2088.866499
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2088.866499
+MLMG: Initial residual (resid0) = 1637.477861
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006670910522
+MLMG: Iteration   2 Fine resid/bnorm = 3.416143965e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.30548783e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.951687441e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.076814513e-07, 1.951687441e-10
+MLMG: Timers: Solve = 0.016435823 Iter = 0.014420302 Bottom = 0.0005576170001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 597] max |rho| at level 0 = 1104.178545
+  [step 597] max |rho| at level 1 = 2106.511909
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2106.511909
+MLMG: Initial residual (resid0) = 1750.494574
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006620119666
+MLMG: Iteration   2 Fine resid/bnorm = 3.387353689e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.29165172e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.943011437e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.092976731e-07, 1.943011437e-10
+MLMG: Timers: Solve = 0.015295141 Iter = 0.013357358 Bottom = 0.000563367
+  [step 598] max |rho| at level 0 = 1105.586939
+  [step 598] max |rho| at level 1 = 2187.608292
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2187.608292
+MLMG: Initial residual (resid0) = 1685.719593
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006356252869
+MLMG: Iteration   2 Fine resid/bnorm = 3.251532363e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.20563089e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.873571381e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.098640289e-07, 1.873571381e-10
+MLMG: Timers: Solve = 0.016020426 Iter = 0.014189535 Bottom = 0.0006193440001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 599] max |rho| at level 0 = 1103.711945
+  [step 599] max |rho| at level 1 = 2255.055639
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2255.055639
+MLMG: Initial residual (resid0) = 1753.422095
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006153733161
+MLMG: Iteration   2 Fine resid/bnorm = 3.147398483e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.141069367e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.822795759e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.110505856e-07, 1.822795759e-10
+MLMG: Timers: Solve = 0.015973587 Iter = 0.01402862 Bottom = 0.0006095460003
+  [step 600] max |rho| at level 0 = 1095.534712
+  [step 600] max |rho| at level 1 = 1941.820099
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1941.820099
+MLMG: Initial residual (resid0) = 1441.524804
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007144972484
+MLMG: Iteration   2 Fine resid/bnorm = 3.649547037e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.488763755e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.122947806e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.12238272e-07, 2.122947806e-10
+MLMG: Timers: Solve = 0.016245772 Iter = 0.014159468 Bottom = 0.0005845770002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 601] max |rho| at level 0 = 1097.215593
+  [step 601] max |rho| at level 1 = 1856.951049
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1856.951049
+MLMG: Initial residual (resid0) = 1367.289494
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007478838877
+MLMG: Iteration   2 Fine resid/bnorm = 3.814668496e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.618586834e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.264029208e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.204191413e-07, 2.264029208e-10
+MLMG: Timers: Solve = 0.013755302 Iter = 0.012071591 Bottom = 0.0004992370002
+  [step 602] max |rho| at level 0 = 1090.998953
+  [step 602] max |rho| at level 1 = 1849.004304
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1849.004304
+MLMG: Initial residual (resid0) = 1327.889265
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007509562207
+MLMG: Iteration   2 Fine resid/bnorm = 3.820324452e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.627050977e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.276783829e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.2097831e-07, 2.276783829e-10
+MLMG: Timers: Solve = 0.038657903 Iter = 0.021413238 Bottom = 0.0032505
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 603] max |rho| at level 0 = 1070.566715
+  [step 603] max |rho| at level 1 = 1819.643345
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1819.643345
+MLMG: Initial residual (resid0) = 1321.341148
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007591047121
+MLMG: Iteration   2 Fine resid/bnorm = 3.791705225e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.480152586e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.990551334e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.622093487e-07, 1.990551334e-10
+MLMG: Timers: Solve = 0.013983926 Iter = 0.01230355 Bottom = 0.0005128620001
+  [step 604] max |rho| at level 0 = 1045.155346
+  [step 604] max |rho| at level 1 = 2137.347973
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2137.347973
+MLMG: Initial residual (resid0) = 1640.555124
+MLMG: Iteration   1 Fine resid/bnorm = 0.000645074089
+MLMG: Iteration   2 Fine resid/bnorm = 3.216359904e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.107732837e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.695642143e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.624177296e-07, 1.695642143e-10
+MLMG: Timers: Solve = 0.013031 Iter = 0.011484568 Bottom = 0.000604996
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 605] max |rho| at level 0 = 1006.966179
+  [step 605] max |rho| at level 1 = 2008.759203
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2008.759203
+MLMG: Initial residual (resid0) = 1514.384669
+MLMG: Iteration   1 Fine resid/bnorm = 0.000688170354
+MLMG: Iteration   2 Fine resid/bnorm = 3.487050617e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.414069959e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.108117209e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.234699844e-07, 2.108117209e-10
+MLMG: Timers: Solve = 0.016741793 Iter = 0.014899521 Bottom = 0.0005839269998
+  [step 606] max |rho| at level 0 = 992.3991638
+  [step 606] max |rho| at level 1 = 1655.923628
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1655.923628
+MLMG: Initial residual (resid0) = 1411.138821
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008346995175
+MLMG: Iteration   2 Fine resid/bnorm = 4.221003633e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.929853982e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.567110806e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.25093944e-07, 2.567110806e-10
+MLMG: Timers: Solve = 0.017437212 Iter = 0.01537386 Bottom = 0.0006158769997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 607] max |rho| at level 0 = 1003.824338
+  [step 607] max |rho| at level 1 = 1688.977696
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1688.977696
+MLMG: Initial residual (resid0) = 1276.618156
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008163874282
+MLMG: Iteration   2 Fine resid/bnorm = 4.12461123e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.869373075e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.521243122e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.258323401e-07, 2.521243122e-10
+MLMG: Timers: Solve = 0.016322869 Iter = 0.014546903 Bottom = 0.0005469060002
+  [step 608] max |rho| at level 0 = 1021.154446
+  [step 608] max |rho| at level 1 = 1785.774585
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1785.774585
+MLMG: Initial residual (resid0) = 1144.691261
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007695322305
+MLMG: Iteration   2 Fine resid/bnorm = 3.889778156e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.708705278e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.386355851e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.261493629e-07, 2.386355851e-10
+MLMG: Timers: Solve = 0.017595772 Iter = 0.015615639 Bottom = 0.0005912099998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 609] max |rho| at level 0 = 1027.880738
+  [step 609] max |rho| at level 1 = 1895.274449
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1895.274449
+MLMG: Initial residual (resid0) = 1341.436007
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007249100022
+MLMG: Iteration   2 Fine resid/bnorm = 3.663754747e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.550054837e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.252227246e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.268588754e-07, 2.252227246e-10
+MLMG: Timers: Solve = 0.014203922 Iter = 0.012515392 Bottom = 0.0002146659999
+  [step 610] max |rho| at level 0 = 1013.842843
+  [step 610] max |rho| at level 1 = 1979.955872
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1979.955872
+MLMG: Initial residual (resid0) = 1481.324955
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006946533415
+MLMG: Iteration   2 Fine resid/bnorm = 3.513632495e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.444762735e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.164195542e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.28501167e-07, 2.164195542e-10
+MLMG: Timers: Solve = 0.01381202 Iter = 0.012209823 Bottom = 0.0002266389999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 611] max |rho| at level 0 = 1009.059321
+  [step 611] max |rho| at level 1 = 2074.566131
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2074.566131
+MLMG: Initial residual (resid0) = 1577.558742
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006645098788
+MLMG: Iteration   2 Fine resid/bnorm = 3.367828117e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.33937361e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.074568634e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.303829826e-07, 2.074568634e-10
+MLMG: Timers: Solve = 0.013968967 Iter = 0.012330842 Bottom = 0.0001950400001
+  [step 612] max |rho| at level 0 = 1002.160963
+  [step 612] max |rho| at level 1 = 2223.943716
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2223.943716
+MLMG: Initial residual (resid0) = 1727.991352
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006214398111
+MLMG: Iteration   2 Fine resid/bnorm = 3.155698059e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.187339445e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.944108023e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.323586822e-07, 1.944108023e-10
+MLMG: Timers: Solve = 0.014399804 Iter = 0.012780705 Bottom = 0.0002840679997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 613] max |rho| at level 0 = 1011.633701
+  [step 613] max |rho| at level 1 = 2422.230165
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2422.230165
+MLMG: Initial residual (resid0) = 1925.083365
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005725936654
+MLMG: Iteration   2 Fine resid/bnorm = 2.909753695e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.012569007e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.793412905e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.344058837e-07, 1.793412905e-10
+MLMG: Timers: Solve = 0.012312518 Iter = 0.010813386 Bottom = 0.0004418579999
+  [step 614] max |rho| at level 0 = 1027.286119
+  [step 614] max |rho| at level 1 = 2397.525033
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2397.525033
+MLMG: Initial residual (resid0) = 1898.668513
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005795434087
+MLMG: Iteration   2 Fine resid/bnorm = 2.947499696e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.035325457e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.817044809e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.356410415e-07, 1.817044809e-10
+MLMG: Timers: Solve = 0.012803518 Iter = 0.01134814 Bottom = 0.0005015799998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 615] max |rho| at level 0 = 1006.17403
+  [step 615] max |rho| at level 1 = 2370.872812
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2370.872812
+MLMG: Initial residual (resid0) = 1870.59481
+MLMG: Iteration   1 Fine resid/bnorm = 0.000587127074
+MLMG: Iteration   2 Fine resid/bnorm = 2.987021983e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.059238297e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.841040007e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.3648717e-07, 1.841040007e-10
+MLMG: Timers: Solve = 0.011593926 Iter = 0.010119811 Bottom = 0.0003939870001
+  [step 616] max |rho| at level 0 = 983.785676
+  [step 616] max |rho| at level 1 = 2128.40027
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2128.40027
+MLMG: Initial residual (resid0) = 1626.13154
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006556172241
+MLMG: Iteration   2 Fine resid/bnorm = 3.335980793e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.296220759e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.056148446e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.376306908e-07, 2.056148446e-10
+MLMG: Timers: Solve = 0.012011136 Iter = 0.010612194 Bottom = 0.0003908399997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 617] max |rho| at level 0 = 967.8397313
+  [step 617] max |rho| at level 1 = 1915.043571
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1915.043571
+MLMG: Initial residual (resid0) = 1412.133702
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007307212359
+MLMG: Iteration   2 Fine resid/bnorm = 3.718051036e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.557685603e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.292506157e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.390249178e-07, 2.292506157e-10
+MLMG: Timers: Solve = 0.01325811 Iter = 0.011648038 Bottom = 0.0005199350001
+  [step 618] max |rho| at level 0 = 965.8489195
+  [step 618] max |rho| at level 1 = 1758.676629
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1758.676629
+MLMG: Initial residual (resid0) = 1483.413505
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007974137732
+MLMG: Iteration   2 Fine resid/bnorm = 4.057368786e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.792365292e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.501964093e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.400145777e-07, 2.501964093e-10
+MLMG: Timers: Solve = 0.012614409 Iter = 0.010998016 Bottom = 0.0004594700001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 619] max |rho| at level 0 = 960.3032672
+  [step 619] max |rho| at level 1 = 1871.544491
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1871.544491
+MLMG: Initial residual (resid0) = 1622.986162
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007529756928
+MLMG: Iteration   2 Fine resid/bnorm = 3.830331845e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.637819486e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.362532906e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.421585444e-07, 2.362532906e-10
+MLMG: Timers: Solve = 0.012917375 Iter = 0.011375752 Bottom = 0.0005250449997
+  [step 620] max |rho| at level 0 = 972.7149074
+  [step 620] max |rho| at level 1 = 1868.879525
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1868.879525
+MLMG: Initial residual (resid0) = 1512.39532
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007589256236
+MLMG: Iteration   2 Fine resid/bnorm = 3.856204734e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.657229043e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.379678956e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.447333275e-07, 2.379678956e-10
+MLMG: Timers: Solve = 0.012780996 Iter = 0.011201282 Bottom = 0.0005044960003
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 621] max |rho| at level 0 = 987.3582111
+  [step 621] max |rho| at level 1 = 1860.042924
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1860.042924
+MLMG: Initial residual (resid0) = 1433.765794
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007621435999
+MLMG: Iteration   2 Fine resid/bnorm = 3.72125324e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.453010378e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.026074869e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.768586225e-07, 2.026074869e-10
+MLMG: Timers: Solve = 0.00843604 Iter = 0.007304084 Bottom = 0.0003579069996
+  [step 622] max |rho| at level 0 = 1000.659724
+  [step 622] max |rho| at level 1 = 2049.602617
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2049.602617
+MLMG: Initial residual (resid0) = 1540.020764
+MLMG: Iteration   1 Fine resid/bnorm = 0.000693509765
+MLMG: Iteration   2 Fine resid/bnorm = 3.382628807e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.228709493e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.841765604e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 3.774887603e-07, 1.841765604e-10
+MLMG: Timers: Solve = 0.008481215 Iter = 0.0073702 Bottom = 0.0003584190001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 623] max |rho| at level 0 = 1024.429662
+  [step 623] max |rho| at level 1 = 2393.667053
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2393.667053
+MLMG: Initial residual (resid0) = 1879.860208
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006075750108
+MLMG: Iteration   2 Fine resid/bnorm = 3.310416922e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.341842215e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.96176179e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.695804563e-07, 1.96176179e-10
+MLMG: Timers: Solve = 0.013040368 Iter = 0.011414094 Bottom = 0.0005319989996
+  [step 624] max |rho| at level 0 = 1066.446321
+  [step 624] max |rho| at level 1 = 2337.331907
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2337.331907
+MLMG: Initial residual (resid0) = 1820.437984
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006227313514
+MLMG: Iteration   2 Fine resid/bnorm = 3.389000069e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.394041283e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.006542072e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.689954807e-07, 2.006542072e-10
+MLMG: Timers: Solve = 0.012506706 Iter = 0.010966156 Bottom = 0.0004889749998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 625] max |rho| at level 0 = 1116.328764
+  [step 625] max |rho| at level 1 = 1952.087599
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1952.087599
+MLMG: Initial residual (resid0) = 1433.472398
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007467137445
+MLMG: Iteration   2 Fine resid/bnorm = 4.058074498e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.863028988e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.400307923e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.68561133e-07, 2.400307923e-10
+MLMG: Timers: Solve = 0.012412718 Iter = 0.010941439 Bottom = 0.000516869
+  [step 626] max |rho| at level 0 = 1132.107338
+  [step 626] max |rho| at level 1 = 2177.154398
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2177.154398
+MLMG: Initial residual (resid0) = 1444.03606
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006693974413
+MLMG: Iteration   2 Fine resid/bnorm = 3.636295408e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.564264577e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.150444524e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.681849752e-07, 2.150444524e-10
+MLMG: Timers: Solve = 0.012994711 Iter = 0.011513714 Bottom = 0.0005450119997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 627] max |rho| at level 0 = 1111.851344
+  [step 627] max |rho| at level 1 = 2098.645334
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2098.645334
+MLMG: Initial residual (resid0) = 1406.497414
+MLMG: Iteration   1 Fine resid/bnorm = 0.000694890274
+MLMG: Iteration   2 Fine resid/bnorm = 3.772923807e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.659542751e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.231013132e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.682105299e-07, 2.231013132e-10
+MLMG: Timers: Solve = 0.01312593 Iter = 0.011502823 Bottom = 0.0004854100002
+  [step 628] max |rho| at level 0 = 1060.258616
+  [step 628] max |rho| at level 1 = 1967.833096
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1967.833096
+MLMG: Initial residual (resid0) = 1511.288906
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007426754027
+MLMG: Iteration   2 Fine resid/bnorm = 4.029902877e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.839623367e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.382429728e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.688224067e-07, 2.382429728e-10
+MLMG: Timers: Solve = 0.012454507 Iter = 0.01096317 Bottom = 0.000506891
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 629] max |rho| at level 0 = 1016.916884
+  [step 629] max |rho| at level 1 = 2161.990947
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2161.990947
+MLMG: Initial residual (resid0) = 1703.740802
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006765505033
+MLMG: Iteration   2 Fine resid/bnorm = 3.671272425e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.586484502e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.170283146e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.692132514e-07, 2.170283146e-10
+MLMG: Timers: Solve = 0.012915741 Iter = 0.011361815 Bottom = 0.0004995370002
+  [step 630] max |rho| at level 0 = 971.1369417
+  [step 630] max |rho| at level 1 = 2215.281849
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2215.281849
+MLMG: Initial residual (resid0) = 1757.683803
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006615296659
+MLMG: Iteration   2 Fine resid/bnorm = 3.591098653e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.530067448e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.124150529e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.705592112e-07, 2.124150529e-10
+MLMG: Timers: Solve = 0.012571348 Iter = 0.01093639 Bottom = 0.0004114200001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 631] max |rho| at level 0 = 942.4399127
+  [step 631] max |rho| at level 1 = 1995.124146
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1995.124146
+MLMG: Initial residual (resid0) = 1539.637174
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007358747742
+MLMG: Iteration   2 Fine resid/bnorm = 3.996347267e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.815805087e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.367929407e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.724313136e-07, 2.367929407e-10
+MLMG: Timers: Solve = 0.013633582 Iter = 0.012074527 Bottom = 0.0005358750002
+  [step 632] max |rho| at level 0 = 951.3054113
+  [step 632] max |rho| at level 1 = 1880.422227
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1880.422227
+MLMG: Initial residual (resid0) = 1509.29197
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007815284614
+MLMG: Iteration   2 Fine resid/bnorm = 4.246137812e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.992625631e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.520003415e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.738670434e-07, 2.520003415e-10
+MLMG: Timers: Solve = 0.013838941 Iter = 0.012137917 Bottom = 0.000597603
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 633] max |rho| at level 0 = 954.3386019
+  [step 633] max |rho| at level 1 = 1776.622384
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1776.622384
+MLMG: Initial residual (resid0) = 1463.922673
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008267849159
+MLMG: Iteration   2 Fine resid/bnorm = 4.496800168e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.169504792e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.67251361e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.748047502e-07, 2.67251361e-10
+MLMG: Timers: Solve = 0.011083127 Iter = 0.009660641 Bottom = 0.0003889979998
+  [step 634] max |rho| at level 0 = 952.8618085
+  [step 634] max |rho| at level 1 = 1637.677773
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1637.677773
+MLMG: Initial residual (resid0) = 1426.53968
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008980847074
+MLMG: Iteration   2 Fine resid/bnorm = 4.883446404e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.443800299e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.905401757e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.758111878e-07, 2.905401757e-10
+MLMG: Timers: Solve = 0.011346617 Iter = 0.010046092 Bottom = 0.0004342129998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 635] max |rho| at level 0 = 948.3723136
+  [step 635] max |rho| at level 1 = 1627.10217
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1627.10217
+MLMG: Initial residual (resid0) = 1415.92778
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009043674037
+MLMG: Iteration   2 Fine resid/bnorm = 4.913046137e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.469330533e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.925428472e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.759971013e-07, 2.925428472e-10
+MLMG: Timers: Solve = 0.009975168 Iter = 0.00864738 Bottom = 0.0001527809998
+  [step 636] max |rho| at level 0 = 937.0642993
+  [step 636] max |rho| at level 1 = 1796.704176
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1796.704176
+MLMG: Initial residual (resid0) = 1546.786243
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008177660066
+MLMG: Iteration   2 Fine resid/bnorm = 4.438509193e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.139305415e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.646011575e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.754100047e-07, 2.646011575e-10
+MLMG: Timers: Solve = 0.009727738 Iter = 0.00846233 Bottom = 0.0001422980006
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 637] max |rho| at level 0 = 925.7804547
+  [step 637] max |rho| at level 1 = 2072.992755
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2072.992755
+MLMG: Initial residual (resid0) = 1821.888959
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007104485744
+MLMG: Iteration   2 Fine resid/bnorm = 4.044665804e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.207073621e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.02197281e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.264527741e-07, 3.02197281e-10
+MLMG: Timers: Solve = 0.01494122 Iter = 0.01319452 Bottom = 0.0005579780002
+  [step 638] max |rho| at level 0 = 924.8401675
+  [step 638] max |rho| at level 1 = 2235.637729
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2235.637729
+MLMG: Initial residual (resid0) = 1983.740233
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006593100787
+MLMG: Iteration   2 Fine resid/bnorm = 3.758839925e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.981102202e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.815436313e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.294295645e-07, 2.815436313e-10
+MLMG: Timers: Solve = 0.015713504 Iter = 0.01384887 Bottom = 0.000607382
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 639] max |rho| at level 0 = 941.2084379
+  [step 639] max |rho| at level 1 = 2068.876805
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2068.876805
+MLMG: Initial residual (resid0) = 1817.15893
+MLMG: Iteration   1 Fine resid/bnorm = 0.000709188669
+MLMG: Iteration   2 Fine resid/bnorm = 3.857695529e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.731557844e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.301798793e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.762138133e-07, 2.301798793e-10
+MLMG: Timers: Solve = 0.017259935 Iter = 0.015463841 Bottom = 0.0006693190001
+  [step 640] max |rho| at level 0 = 953.0168127
+  [step 640] max |rho| at level 1 = 1848.460536
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1848.460536
+MLMG: Initial residual (resid0) = 1597.3124
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007933333016
+MLMG: Iteration   2 Fine resid/bnorm = 4.321752979e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.060765354e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.579578976e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.768249937e-07, 2.579578976e-10
+MLMG: Timers: Solve = 0.017140448 Iter = 0.015327673 Bottom = 0.0006557639997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 641] max |rho| at level 0 = 974.7862714
+  [step 641] max |rho| at level 1 = 1943.849335
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1943.849335
+MLMG: Initial residual (resid0) = 1512.191963
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007580486459
+MLMG: Iteration   2 Fine resid/bnorm = 4.336946228e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.447946226e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.390101311e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.58984618e-07, 3.390101311e-10
+MLMG: Timers: Solve = 0.019735808 Iter = 0.017701813 Bottom = 0.0007364349999
+  [step 642] max |rho| at level 0 = 982.3571216
+  [step 642] max |rho| at level 1 = 1884.025505
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1884.025505
+MLMG: Initial residual (resid0) = 1651.264862
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007813162288
+MLMG: Iteration   2 Fine resid/bnorm = 4.476038943e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.563063891e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.565635604e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.71774842e-07, 3.565635604e-10
+MLMG: Timers: Solve = 0.019748873 Iter = 0.017605531 Bottom = 0.000759369
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 643] max |rho| at level 0 = 982.0272626
+  [step 643] max |rho| at level 1 = 2161.689363
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2161.689363
+MLMG: Initial residual (resid0) = 1929.421564
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006816203801
+MLMG: Iteration   2 Fine resid/bnorm = 3.910027433e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.115603933e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.170411072e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.853443892e-07, 3.170411072e-10
+MLMG: Timers: Solve = 0.017588057 Iter = 0.015620548 Bottom = 0.000644603
+  [step 644] max |rho| at level 0 = 975.3086316
+  [step 644] max |rho| at level 1 = 2178.272538
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2178.272538
+MLMG: Initial residual (resid0) = 1946.579889
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006764580259
+MLMG: Iteration   2 Fine resid/bnorm = 3.881656017e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.096037481e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.194903981e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 6.959371603e-07, 3.194903981e-10
+MLMG: Timers: Solve = 0.016888031 Iter = 0.015037492 Bottom = 0.0005891979999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 645] max |rho| at level 0 = 974.2488905
+  [step 645] max |rho| at level 1 = 2069.779335
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2069.779335
+MLMG: Initial residual (resid0) = 1838.07026
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007106888561
+MLMG: Iteration   2 Fine resid/bnorm = 4.082339087e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.25863179e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.404052335e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.045637176e-07, 3.404052335e-10
+MLMG: Timers: Solve = 0.017119509 Iter = 0.015200251 Bottom = 0.0005991970002
+  [step 646] max |rho| at level 0 = 963.5947405
+  [step 646] max |rho| at level 1 = 1958.029312
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1958.029312
+MLMG: Initial residual (resid0) = 1727.118814
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007505291806
+MLMG: Iteration   2 Fine resid/bnorm = 4.315348843e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.447707939e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.653776398e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.154201285e-07, 3.653776398e-10
+MLMG: Timers: Solve = 0.017564702 Iter = 0.015617802 Bottom = 0.0006990760003
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 647] max |rho| at level 0 = 962.9593904
+  [step 647] max |rho| at level 1 = 1873.816344
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1873.816344
+MLMG: Initial residual (resid0) = 1873.816344
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007826515195
+MLMG: Iteration   2 Fine resid/bnorm = 4.510457845e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.606697077e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.885562954e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.280831369e-07, 3.885562954e-10
+MLMG: Timers: Solve = 0.01756291 Iter = 0.015672016 Bottom = 0.0006567349999
+  [step 648] max |rho| at level 0 = 957.703802
+  [step 648] max |rho| at level 1 = 2061.705936
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2061.705936
+MLMG: Initial residual (resid0) = 1849.264365
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007105967006
+MLMG: Iteration   2 Fine resid/bnorm = 4.093263507e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.275263402e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.57976031e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 7.380413081e-07, 3.57976031e-10
+MLMG: Timers: Solve = 0.016627887 Iter = 0.014871548 Bottom = 0.00063333
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 649] max |rho| at level 0 = 942.1875744
+  [step 649] max |rho| at level 1 = 2256.777715
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2256.777715
+MLMG: Initial residual (resid0) = 2015.631473
+MLMG: Iteration   1 Fine resid/bnorm = 0.000646616074
+MLMG: Iteration   2 Fine resid/bnorm = 3.691512475e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.810979341e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.60094643e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.869757942e-07, 2.60094643e-10
+MLMG: Timers: Solve = 0.019004011 Iter = 0.016933015 Bottom = 0.0002812520001
+  [step 650] max |rho| at level 0 = 913.0838816
+  [step 650] max |rho| at level 1 = 1915.503274
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1915.503274
+MLMG: Initial residual (resid0) = 1675.8233
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007581337422
+MLMG: Iteration   2 Fine resid/bnorm = 4.32522103e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.293813102e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.048096838e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.838639474e-07, 3.048096838e-10
+MLMG: Timers: Solve = 0.018972962 Iter = 0.016895395 Bottom = 0.0002980840002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 651] max |rho| at level 0 = 903.4036729
+  [step 651] max |rho| at level 1 = 1724.238339
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1724.238339
+MLMG: Initial residual (resid0) = 1433.621757
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008370539412
+MLMG: Iteration   2 Fine resid/bnorm = 4.774910261e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.637844194e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.367634065e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.806603767e-07, 3.367634065e-10
+MLMG: Timers: Solve = 0.019392087 Iter = 0.016881278 Bottom = 0.0002646220003
+  [step 652] max |rho| at level 0 = 912.5442364
+  [step 652] max |rho| at level 1 = 1856.669337
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1856.669337
+MLMG: Initial residual (resid0) = 1409.253749
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007736754548
+MLMG: Iteration   2 Fine resid/bnorm = 4.40825888e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.359338336e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.110386926e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.77496003e-07, 3.110386926e-10
+MLMG: Timers: Solve = 0.019861848 Iter = 0.01747336 Bottom = 0.0002909399998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 653] max |rho| at level 0 = 921.8976326
+  [step 653] max |rho| at level 1 = 1830.551972
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1830.551972
+MLMG: Initial residual (resid0) = 1480.701873
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007629273361
+MLMG: Iteration   2 Fine resid/bnorm = 3.911277698e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.793452795e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.481913069e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.543270862e-07, 2.481913069e-10
+MLMG: Timers: Solve = 0.009683755 Iter = 0.00839363 Bottom = 0.000143662
+  [step 654] max |rho| at level 0 = 927.6715262
+  [step 654] max |rho| at level 1 = 2058.008724
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2058.008724
+MLMG: Initial residual (resid0) = 1610.551653
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006766773804
+MLMG: Iteration   2 Fine resid/bnorm = 3.462325582e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.480465582e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.198108479e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.523726425e-07, 2.198108479e-10
+MLMG: Timers: Solve = 0.010616994 Iter = 0.0091111 Bottom = 0.0001975540001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 655] max |rho| at level 0 = 943.1715318
+  [step 655] max |rho| at level 1 = 2105.184032
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2105.184032
+MLMG: Initial residual (resid0) = 1659.702356
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006595147553
+MLMG: Iteration   2 Fine resid/bnorm = 3.369411392e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.420871819e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.139718339e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.504500879e-07, 2.139718339e-10
+MLMG: Timers: Solve = 0.011466124 Iter = 0.010178963 Bottom = 0.0004216379998
+  [step 656] max |rho| at level 0 = 958.1849729
+  [step 656] max |rho| at level 1 = 2278.540726
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2278.540726
+MLMG: Initial residual (resid0) = 1834.829002
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006063158795
+MLMG: Iteration   2 Fine resid/bnorm = 3.094828067e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.228270946e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.966863081e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.481577633e-07, 1.966863081e-10
+MLMG: Timers: Solve = 0.011523883 Iter = 0.010183312 Bottom = 0.0004177920005
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 657] max |rho| at level 0 = 965.1018072
+  [step 657] max |rho| at level 1 = 2400.665181
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2400.665181
+MLMG: Initial residual (resid0) = 1957.932689
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005876052346
+MLMG: Iteration   2 Fine resid/bnorm = 3.318733618e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.535174734e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.350708609e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.643264309e-07, 2.350708609e-10
+MLMG: Timers: Solve = 0.016482562 Iter = 0.01454031 Bottom = 0.0005287229999
+  [step 658] max |rho| at level 0 = 942.3666237
+  [step 658] max |rho| at level 1 = 2217.500046
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2217.500046
+MLMG: Initial residual (resid0) = 1778.57211
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006357595454
+MLMG: Iteration   2 Fine resid/bnorm = 3.58440471e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.739850046e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.54205668e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.637010805e-07, 2.54205668e-10
+MLMG: Timers: Solve = 0.016333659 Iter = 0.014584104 Bottom = 0.0005430799997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 659] max |rho| at level 0 = 909.3722948
+  [step 659] max |rho| at level 1 = 2062.490039
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2062.490039
+MLMG: Initial residual (resid0) = 1630.096904
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006844598397
+MLMG: Iteration   2 Fine resid/bnorm = 3.852632356e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.947169127e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.736416397e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.643831562e-07, 2.736416397e-10
+MLMG: Timers: Solve = 0.015638643 Iter = 0.014036966 Bottom = 0.0005468760005
+  [step 660] max |rho| at level 0 = 882.2592119
+  [step 660] max |rho| at level 1 = 1913.597102
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1913.597102
+MLMG: Initial residual (resid0) = 1896.402949
+MLMG: Iteration   1 Fine resid/bnorm = 0.000738653364
+MLMG: Iteration   2 Fine resid/bnorm = 4.149274717e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.175125294e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.949092582e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.64337502e-07, 2.949092582e-10
+MLMG: Timers: Solve = 0.016149791 Iter = 0.01456169 Bottom = 0.0005305750005
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 661] max |rho| at level 0 = 859.4364211
+  [step 661] max |rho| at level 1 = 2013.763682
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2013.763682
+MLMG: Initial residual (resid0) = 2013.763682
+MLMG: Iteration   1 Fine resid/resid0 = 0.0007007105436
+MLMG: Iteration   2 Fine resid/resid0 = 3.930883218e-06
+MLMG: Iteration   3 Fine resid/resid0 = 3.009061909e-08
+MLMG: Iteration   4 Fine resid/resid0 = 2.795603434e-10
+MLMG: Final Iter. 4 resid, resid/resid0 = 5.629684665e-07, 2.795603434e-10
+MLMG: Timers: Solve = 0.015364252 Iter = 0.013547839 Bottom = 0.0002163099998
+  [step 662] max |rho| at level 0 = 855.4726904
+  [step 662] max |rho| at level 1 = 1980.535842
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1980.535842
+MLMG: Initial residual (resid0) = 1980.535842
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007089902107
+MLMG: Iteration   2 Fine resid/bnorm = 3.974631685e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.043884965e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.829009451e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.602954616e-07, 2.829009451e-10
+MLMG: Timers: Solve = 0.015065666 Iter = 0.013389819 Bottom = 0.0002329330002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 663] max |rho| at level 0 = 842.9737113
+  [step 663] max |rho| at level 1 = 1738.159172
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1738.159172
+MLMG: Initial residual (resid0) = 1738.159172
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008054153458
+MLMG: Iteration   2 Fine resid/bnorm = 4.5153426e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.459766893e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.217205742e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.592015668e-07, 3.217205742e-10
+MLMG: Timers: Solve = 0.01526284 Iter = 0.013663238 Bottom = 0.0002344739999
+  [step 664] max |rho| at level 0 = 815.0826994
+  [step 664] max |rho| at level 1 = 1498.002737
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1498.002737
+MLMG: Initial residual (resid0) = 1498.002737
+MLMG: Iteration   1 Fine resid/resid0 = 0.0009332200894
+MLMG: Iteration   2 Fine resid/resid0 = 5.23621006e-06
+MLMG: Iteration   3 Fine resid/resid0 = 4.015064769e-08
+MLMG: Iteration   4 Fine resid/resid0 = 3.7365327e-10
+MLMG: Final Iter. 4 resid, resid/resid0 = 5.597336212e-07, 3.7365327e-10
+MLMG: Timers: Solve = 0.014464997 Iter = 0.012885804 Bottom = 0.0001666059998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 665] max |rho| at level 0 = 789.7129503
+  [step 665] max |rho| at level 1 = 1423.667977
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1423.667977
+MLMG: Initial residual (resid0) = 1387.688874
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009791499103
+MLMG: Iteration   2 Fine resid/bnorm = 5.500833721e-06
+MLMG: Iteration   3 Fine resid/bnorm = 4.221242842e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.93133328e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.596913297e-07, 3.93133328e-10
+MLMG: Timers: Solve = 0.015032513 Iter = 0.013416109 Bottom = 0.0002301059999
+  [step 666] max |rho| at level 0 = 757.1204648
+  [step 666] max |rho| at level 1 = 1496.726124
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1496.726124
+MLMG: Initial residual (resid0) = 1334.523758
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009270244204
+MLMG: Iteration   2 Fine resid/bnorm = 5.217241939e-06
+MLMG: Iteration   3 Fine resid/bnorm = 4.006485142e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.733573286e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.588136673e-07, 3.733573286e-10
+MLMG: Timers: Solve = 0.01528402 Iter = 0.013847156 Bottom = 0.0001871859999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 667] max |rho| at level 0 = 731.933338
+  [step 667] max |rho| at level 1 = 1538.889716
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1538.889716
+MLMG: Initial residual (resid0) = 1457.308787
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008984645836
+MLMG: Iteration   2 Fine resid/bnorm = 5.062261938e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.890441437e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.62778239e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.582757012e-07, 3.62778239e-10
+MLMG: Timers: Solve = 0.020648649 Iter = 0.018670238 Bottom = 0.000220247
+  [step 668] max |rho| at level 0 = 700.9504489
+  [step 668] max |rho| at level 1 = 1517.104068
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1517.104068
+MLMG: Initial residual (resid0) = 1402.593071
+MLMG: Iteration   1 Fine resid/bnorm = 0.0009098628893
+MLMG: Iteration   2 Fine resid/bnorm = 5.135868624e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.94959181e-08
+MLMG: Iteration   4 Fine resid/bnorm = 3.684405104e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 5.589625971e-07, 3.684405104e-10
+MLMG: Timers: Solve = 0.014959675 Iter = 0.013333463 Bottom = 0.0002356859995
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 669] max |rho| at level 0 = 689.4602079
+  [step 669] max |rho| at level 1 = 1622.554897
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1622.554897
+MLMG: Initial residual (resid0) = 1434.865071
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008299292403
+MLMG: Iteration   2 Fine resid/bnorm = 4.238776351e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.092356749e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.738564256e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.443470845e-07, 2.738564256e-10
+MLMG: Timers: Solve = 0.011398125 Iter = 0.009989635 Bottom = 0.0003622269999
+  [step 670] max |rho| at level 0 = 701.6670152
+  [step 670] max |rho| at level 1 = 1586.191936
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1586.191936
+MLMG: Initial residual (resid0) = 1394.845482
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008510753658
+MLMG: Iteration   2 Fine resid/bnorm = 4.351744934e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.176214676e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.814041226e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.4636095e-07, 2.814041226e-10
+MLMG: Timers: Solve = 0.011692783 Iter = 0.01018245 Bottom = 0.0003930759999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 671] max |rho| at level 0 = 727.0846044
+  [step 671] max |rho| at level 1 = 1517.495084
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1517.495084
+MLMG: Initial residual (resid0) = 1411.112334
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008910934711
+MLMG: Iteration   2 Fine resid/bnorm = 4.564681026e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.330864514e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.953257502e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.481553741e-07, 2.953257502e-10
+MLMG: Timers: Solve = 0.009597181 Iter = 0.008406765 Bottom = 0.0001492030001
+  [step 672] max |rho| at level 0 = 741.9077524
+  [step 672] max |rho| at level 1 = 1615.664952
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1615.664952
+MLMG: Initial residual (resid0) = 1494.810026
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008397859813
+MLMG: Iteration   2 Fine resid/bnorm = 4.304838052e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.140240759e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.785262618e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.500051194e-07, 2.785262618e-10
+MLMG: Timers: Solve = 0.009499075 Iter = 0.008321984 Bottom = 0.0001431409996
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 673] max |rho| at level 0 = 748.728538
+  [step 673] max |rho| at level 1 = 1677.026196
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1677.026196
+MLMG: Initial residual (resid0) = 1461.860487
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008136807811
+MLMG: Iteration   2 Fine resid/bnorm = 4.171943726e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.040490408e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.697604418e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.523953274e-07, 2.697604418e-10
+MLMG: Timers: Solve = 0.012419671 Iter = 0.010963461 Bottom = 0.0004235619999
+  [step 674] max |rho| at level 0 = 751.7405457
+  [step 674] max |rho| at level 1 = 1780.597173
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1780.597173
+MLMG: Initial residual (resid0) = 1564.080046
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007709308448
+MLMG: Iteration   2 Fine resid/bnorm = 3.954522385e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.880298487e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.556371919e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.551868613e-07, 2.556371919e-10
+MLMG: Timers: Solve = 0.012586316 Iter = 0.011104568 Bottom = 0.0004491720001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 675] max |rho| at level 0 = 754.2234973
+  [step 675] max |rho| at level 1 = 1812.649621
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1812.649621
+MLMG: Initial residual (resid0) = 1522.368445
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007616017932
+MLMG: Iteration   2 Fine resid/bnorm = 3.904859165e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.844676957e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.525148482e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.577209438e-07, 2.525148482e-10
+MLMG: Timers: Solve = 0.011715236 Iter = 0.010370878 Bottom = 0.000349532
+  [step 676] max |rho| at level 0 = 764.2498896
+  [step 676] max |rho| at level 1 = 1825.963437
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1825.963437
+MLMG: Initial residual (resid0) = 1617.775746
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007614158076
+MLMG: Iteration   2 Fine resid/bnorm = 3.897787702e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.838811241e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.521224835e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.603664365e-07, 2.521224835e-10
+MLMG: Timers: Solve = 0.011903893 Iter = 0.010402978 Bottom = 0.0003936970002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 677] max |rho| at level 0 = 766.2476253
+  [step 677] max |rho| at level 1 = 1764.314391
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1764.314391
+MLMG: Initial residual (resid0) = 1542.578525
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007950195687
+MLMG: Iteration   2 Fine resid/bnorm = 4.064478081e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.959270479e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.627657507e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.636013955e-07, 2.627657507e-10
+MLMG: Timers: Solve = 0.011637378 Iter = 0.010238457 Bottom = 0.000378428
+  [step 678] max |rho| at level 0 = 786.8915022
+  [step 678] max |rho| at level 1 = 1817.017002
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1817.017002
+MLMG: Initial residual (resid0) = 1593.113423
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007810972163
+MLMG: Iteration   2 Fine resid/bnorm = 3.984547243e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.901143905e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.573622554e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.676315939e-07, 2.573622554e-10
+MLMG: Timers: Solve = 0.012118801 Iter = 0.010596275 Bottom = 0.0003857219999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 679] max |rho| at level 0 = 817.2358476
+  [step 679] max |rho| at level 1 = 1886.722178
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1886.722178
+MLMG: Initial residual (resid0) = 1886.722178
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007643747023
+MLMG: Iteration   2 Fine resid/bnorm = 3.883877251e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.825395101e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.504792816e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.725848157e-07, 2.504792816e-10
+MLMG: Timers: Solve = 0.012665236 Iter = 0.011194879 Bottom = 0.0004498230001
+  [step 680] max |rho| at level 0 = 846.0555324
+  [step 680] max |rho| at level 1 = 1976.42717
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1976.42717
+MLMG: Initial residual (resid0) = 1976.42717
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007403552244
+MLMG: Iteration   2 Fine resid/bnorm = 3.748580772e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.723308982e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.414024901e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.771144404e-07, 2.414024901e-10
+MLMG: Timers: Solve = 0.012231925 Iter = 0.010768942 Bottom = 0.0004158979998
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 681] max |rho| at level 0 = 872.689619
+  [step 681] max |rho| at level 1 = 2281.687098
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2281.687098
+MLMG: Initial residual (resid0) = 2048.148332
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006495588721
+MLMG: Iteration   2 Fine resid/bnorm = 3.277858714e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.37737065e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.105084864e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.803144975e-07, 2.105084864e-10
+MLMG: Timers: Solve = 0.01034596 Iter = 0.009038282 Bottom = 0.0001865739998
+  [step 682] max |rho| at level 0 = 906.1678019
+  [step 682] max |rho| at level 1 = 2557.377903
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2557.377903
+MLMG: Initial residual (resid0) = 2319.603561
+MLMG: Iteration   1 Fine resid/bnorm = 0.0005871920755
+MLMG: Iteration   2 Fine resid/bnorm = 2.94934339e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.135714164e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.888685254e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.830081934e-07, 1.888685254e-10
+MLMG: Timers: Solve = 0.009921586 Iter = 0.008706813 Bottom = 0.0001713449999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 683] max |rho| at level 0 = 931.406957
+  [step 683] max |rho| at level 1 = 2457.097174
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2457.097174
+MLMG: Initial residual (resid0) = 2215.377305
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006186993044
+MLMG: Iteration   2 Fine resid/bnorm = 3.095809576e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.238859545e-08
+MLMG: Iteration   4 Fine resid/bnorm = 1.977275533e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.858358125e-07, 1.977275533e-10
+MLMG: Timers: Solve = 0.009616397 Iter = 0.008424518 Bottom = 0.0001183029999
+  [step 684] max |rho| at level 0 = 944.2687976
+  [step 684] max |rho| at level 1 = 2200.11923
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2200.11923
+MLMG: Initial residual (resid0) = 1955.177742
+MLMG: Iteration   1 Fine resid/bnorm = 0.000696695413
+MLMG: Iteration   2 Fine resid/bnorm = 3.47572434e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.511403845e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.214004555e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.871073997e-07, 2.214004555e-10
+MLMG: Timers: Solve = 0.009365562 Iter = 0.008148335 Bottom = 0.0001169
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 685] max |rho| at level 0 = 971.4996502
+  [step 685] max |rho| at level 1 = 2065.587876
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2065.587876
+MLMG: Initial residual (resid0) = 1817.727467
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007473244555
+MLMG: Iteration   2 Fine resid/bnorm = 3.719401333e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.684163881e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.363092981e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.88117621e-07, 2.363092981e-10
+MLMG: Timers: Solve = 0.009572684 Iter = 0.008379793 Bottom = 0.0001385219998
+  [step 686] max |rho| at level 0 = 994.7965957
+  [step 686] max |rho| at level 1 = 1987.96408
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1987.96408
+MLMG: Initial residual (resid0) = 1706.441261
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007821969443
+MLMG: Iteration   2 Fine resid/bnorm = 3.885579275e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.799874438e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.462774755e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.89590775e-07, 2.462774755e-10
+MLMG: Timers: Solve = 0.010002319 Iter = 0.008813585 Bottom = 0.0001796920003
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 687] max |rho| at level 0 = 986.3937176
+  [step 687] max |rho| at level 1 = 1973.384669
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1973.384669
+MLMG: Initial residual (resid0) = 1796.431557
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007930433367
+MLMG: Iteration   2 Fine resid/bnorm = 3.935011508e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.834293012e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.490443768e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.914603551e-07, 2.490443768e-10
+MLMG: Timers: Solve = 0.009940482 Iter = 0.008714157 Bottom = 0.0001864330004
+  [step 688] max |rho| at level 0 = 976.2472329
+  [step 688] max |rho| at level 1 = 2092.002368
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2092.002368
+MLMG: Initial residual (resid0) = 1839.153513
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007520289524
+MLMG: Iteration   2 Fine resid/bnorm = 3.727637706e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.685989202e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.355340262e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.927377404e-07, 2.355340262e-10
+MLMG: Timers: Solve = 0.009529052 Iter = 0.008295373 Bottom = 0.0001220019999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 689] max |rho| at level 0 = 960.0245715
+  [step 689] max |rho| at level 1 = 2213.169504
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2213.169504
+MLMG: Initial residual (resid0) = 1959.753922
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007115901645
+MLMG: Iteration   2 Fine resid/bnorm = 3.531937948e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.548125492e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.231434925e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.938543725e-07, 2.231434925e-10
+MLMG: Timers: Solve = 0.009626075 Iter = 0.008450598 Bottom = 0.0001502949999
+  [step 690] max |rho| at level 0 = 947.7244378
+  [step 690] max |rho| at level 1 = 2341.17639
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2341.17639
+MLMG: Initial residual (resid0) = 2087.45894
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006732203896
+MLMG: Iteration   2 Fine resid/bnorm = 3.34392119e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.416429676e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.112299632e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.945266028e-07, 2.112299632e-10
+MLMG: Timers: Solve = 0.01015105 Iter = 0.00884256 Bottom = 0.0001589010001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 691] max |rho| at level 0 = 939.3544409
+  [step 691] max |rho| at level 1 = 2348.50757
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2348.50757
+MLMG: Initial residual (resid0) = 2094.938223
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006703482636
+MLMG: Iteration   2 Fine resid/bnorm = 3.333179317e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.411457466e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.106162296e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.946338095e-07, 2.106162296e-10
+MLMG: Timers: Solve = 0.009983703 Iter = 0.008873529 Bottom = 0.0001626390001
+  [step 692] max |rho| at level 0 = 931.1496839
+  [step 692] max |rho| at level 1 = 2095.410437
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2095.410437
+MLMG: Initial residual (resid0) = 1842.792651
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007461412516
+MLMG: Iteration   2 Fine resid/bnorm = 3.719737115e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.694265689e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.353343798e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.931221156e-07, 2.353343798e-10
+MLMG: Timers: Solve = 0.009610446 Iter = 0.008396686 Bottom = 0.0001225619997
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 693] max |rho| at level 0 = 923.8126132
+  [step 693] max |rho| at level 1 = 2002.400625
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 2002.400625
+MLMG: Initial residual (resid0) = 1749.54528
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007719207964
+MLMG: Iteration   2 Fine resid/bnorm = 3.862306906e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.799227598e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.445901376e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.897674444e-07, 2.445901376e-10
+MLMG: Timers: Solve = 0.01032958 Iter = 0.009111972 Bottom = 0.0001748000002
+  [step 694] max |rho| at level 0 = 911.407957
+  [step 694] max |rho| at level 1 = 1900.822756
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 4
+MLMG: Initial rhs               = 1900.822756
+MLMG: Initial residual (resid0) = 1648.962995
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008039979839
+MLMG: Iteration   2 Fine resid/bnorm = 4.040417989e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.931421715e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.561865853e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.869652912e-07, 2.561865853e-10
+MLMG: Timers: Solve = 0.010221806 Iter = 0.00905273 Bottom = 0.000196401
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 695] max |rho| at level 0 = 920.2691457
+  [step 695] max |rho| at level 1 = 2118.621311
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2118.621311
+MLMG: Initial residual (resid0) = 1867.252988
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007135376958
+MLMG: Iteration   2 Fine resid/bnorm = 3.603060903e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.61783119e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.288568255e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.848609478e-07, 2.288568255e-10
+MLMG: Timers: Solve = 0.011156948 Iter = 0.0097492 Bottom = 0.000389156
+  [step 696] max |rho| at level 0 = 928.401962
+  [step 696] max |rho| at level 1 = 2117.114126
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2117.114126
+MLMG: Initial residual (resid0) = 1867.626349
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007057844673
+MLMG: Iteration   2 Fine resid/bnorm = 3.584732497e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.607476885e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.282352618e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.832000968e-07, 2.282352618e-10
+MLMG: Timers: Solve = 0.011041639 Iter = 0.009793053 Bottom = 0.0004248060002
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 697] max |rho| at level 0 = 938.1358392
+  [step 697] max |rho| at level 1 = 2056.865796
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2056.865796
+MLMG: Initial residual (resid0) = 1809.618535
+MLMG: Iteration   1 Fine resid/bnorm = 0.00071919379
+MLMG: Iteration   2 Fine resid/bnorm = 3.670817614e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.671264832e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.341436188e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.816020009e-07, 2.341436188e-10
+MLMG: Timers: Solve = 0.01011303 Iter = 0.008854895 Bottom = 0.000310138
+  [step 698] max |rho| at level 0 = 951.6992245
+  [step 698] max |rho| at level 1 = 2106.851407
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2106.851407
+MLMG: Initial residual (resid0) = 1720.877927
+MLMG: Iteration   1 Fine resid/bnorm = 0.0006947433736
+MLMG: Iteration   2 Fine resid/bnorm = 3.564799814e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.595007731e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.278001681e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.799411046e-07, 2.278001681e-10
+MLMG: Timers: Solve = 0.010600664 Iter = 0.009402322 Bottom = 0.0003714930001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 699] max |rho| at level 0 = 954.6172009
+  [step 699] max |rho| at level 1 = 2015.710215
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 2015.710215
+MLMG: Initial residual (resid0) = 1789.985646
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007182009024
+MLMG: Iteration   2 Fine resid/bnorm = 3.704162006e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.695510102e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.370575519e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.77839329e-07, 2.370575519e-10
+MLMG: Timers: Solve = 0.010009453 Iter = 0.008805682 Bottom = 0.0003371790001
+  [step 700] max |rho| at level 0 = 962.2678024
+  [step 700] max |rho| at level 1 = 1810.443107
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1810.443107
+MLMG: Initial residual (resid0) = 1586.150256
+MLMG: Iteration   1 Fine resid/bnorm = 0.0007934948759
+MLMG: Iteration   2 Fine resid/bnorm = 4.105183019e-06
+MLMG: Iteration   3 Fine resid/bnorm = 2.982409464e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.629455205e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.760479051e-07, 2.629455205e-10
+MLMG: Timers: Solve = 0.010624078 Iter = 0.009354492 Bottom = 0.000407041
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 701] max |rho| at level 0 = 962.1127878
+  [step 701] max |rho| at level 1 = 1735.2487
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1735.2487
+MLMG: Initial residual (resid0) = 1342.741156
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008219037502
+MLMG: Iteration   2 Fine resid/bnorm = 4.263064703e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.087549261e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.730539466e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.73816506e-07, 2.730539466e-10
+MLMG: Timers: Solve = 0.010897195 Iter = 0.009601049 Bottom = 0.0003941270002
+  [step 702] max |rho| at level 0 = 939.0353029
+  [step 702] max |rho| at level 1 = 1603.338813
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1603.338813
+MLMG: Initial residual (resid0) = 1367.428051
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008839415004
+MLMG: Iteration   2 Fine resid/bnorm = 4.595234082e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.320071878e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.943996723e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.720224211e-07, 2.943996723e-10
+MLMG: Timers: Solve = 0.010786516 Iter = 0.009521217 Bottom = 0.0003781160001
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 703] max |rho| at level 0 = 915.6426881
+  [step 703] max |rho| at level 1 = 1707.948677
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1707.948677
+MLMG: Initial residual (resid0) = 1467.065581
+MLMG: Iteration   1 Fine resid/bnorm = 0.000827528246
+MLMG: Iteration   2 Fine resid/bnorm = 4.305578246e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.106747372e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.759838445e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.71366242e-07, 2.759838445e-10
+MLMG: Timers: Solve = 0.011688967 Iter = 0.010366911 Bottom = 0.0004430679999
+  [step 704] max |rho| at level 0 = 902.4648564
+  [step 704] max |rho| at level 1 = 1636.32883
+MLMG: # of AMR levels: 1
+      # of MG levels on the coarsest AMR level: 3
+MLMG: Initial rhs               = 1636.32883
+MLMG: Initial residual (resid0) = 1395.623861
+MLMG: Iteration   1 Fine resid/bnorm = 0.0008601830779
+MLMG: Iteration   2 Fine resid/bnorm = 4.477518945e-06
+MLMG: Iteration   3 Fine resid/bnorm = 3.231744031e-08
+MLMG: Iteration   4 Fine resid/bnorm = 2.873754335e-10
+MLMG: Final Iter. 4 resid, resid/bnorm = 4.702407068e-07, 2.873754335e-10
+MLMG: Timers: Solve = 0.011050797 Iter = 0.009666984 Bottom = 0.0003668439999
+ErrorEst called: lev = 0, time = 1
+ErrorEst called: lev = 0, time = 1
+  [step 705] max |rho| at level 0 = 906.3513771
+  [step 705] max |rho| at level 1 = 1648.952274

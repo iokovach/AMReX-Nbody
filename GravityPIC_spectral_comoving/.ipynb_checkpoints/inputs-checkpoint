@@ -1,0 +1,41 @@
+n_buffer = 2
+n_part = 2
+mass = 1e-2
+max_step = 100
+max_level = 0
+
+plot_int = 1
+ic_file = sphere1000_ics.txt
+
+# set initial scale factor and timestep size
+d_a = 1e-2
+a_ini = 1e-3
+
+regrid_int = 2
+
+#cosmology
+Omega_m = 1
+Omega_r = 0
+
+# define unit system for code
+unit_length_cm = 3.086e+24
+unit_mass_g = 1.989e44
+unit_vel_cm_s = 1e5
+
+#boxsize = 4 here -- in code units!!
+geometry.prob_lo = 0 0 0
+geometry.prob_hi = 4 4 4
+
+#density threshold for regridding
+rho_err = 10000
+
+amr.max_level = 0
+amr.n_cell = 128 128 128
+amr.max_grid_size = 32
+amr.ref_ratio = 2 2
+
+# 1 = periodic 
+# 0 = aperiodic 
+geometry.coord_sys = 0
+geometry.is_periodic = 0 0 0
+
